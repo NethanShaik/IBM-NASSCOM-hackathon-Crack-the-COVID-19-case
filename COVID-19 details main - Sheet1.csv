@@ -1,0 +1,1464 @@
+Sl.no,ObservationDate,District,State/Region,Last update,Confirmed,Recovered,Deaths
+1,24/4/2020,Bengaluru Urban,Karnataka,24/4/2020 10:45,34,42,3
+2,24/4/2020,Vijayapura,Karnataka,24/4/2020 10:45,18,0,5
+3,23/4/2020,Kalburgi,Karnataka,23/4/2020 10:45,15,16,10
+4,22/4/2020,Mysore,Karnataka,22/4/2020 10:45,12,38,0
+5,24/4/2020,Bagalkote,Karnataka,24/4/2020 10:45,8,8,4
+6,22/4/2020,Dakshina Kannada,Karnataka,22/4/2020 10:45,4,71,11
+7,24/4/2020,Mandya,Karnataka,24/4/2020 10:45,3,0,0
+8,23/4/2020,Belagavi,Karnataka,23/4/2020 10:45,3,7,2
+9,23/4/2020,Tumakur,Karnataka,23/4/2020 10:45,1,33,33
+10,20/4/2020,Gadag,Karnataka,23/4/2020 10:45,1,0,25
+11,22/4/2020,Dharwad,Karnataka,22/4/2020 10:45,2,22,0
+12,20/4/2020,Bidar,Karnataka,20/4/2020 10:45,1,60,0
+13,23/4/2020,Chikkaballapur,Karnataka,23/4/2020 10:45,1,59,11
+14,16/4/2020,Ballari,Karnataka,16/4/2020 10:45,0,23,0
+15,14/4/2020,Uttar Kannada,Karnataka,14/4/2020 10:45,0,90,0
+16,13/4/2020,Bengaluru Rural,Karnataka,13/4/2020 10:45,0,29,0
+17,29/3/2020,Udupi,Karnataka,29/3/2020 10:45,0,100,0
+18,28/3/2020,Davangere,Karnataka,28/3/2020 10:45,0,100,0
+19,23/3/2020,Chitradurga,Karnataka,23/3/2020 10:45,0,100,0
+20,18/3/2020,Kodagu,Karnataka,18/3/2020 10:45,0,100,0
+21,25/4/2020,Bengaluru Urban,Karnataka,25/4/2020 10:45,44,38,2
+22,24/4/2020,Vijayapura,Karnataka,24/4/2020 10:45,17,0,5
+23,23/4/2020,Kalburgi,Karnataka,23/4/2020 10:45,15,19,10
+24,25/4/2020,Belagavi,Karnataka,25/4/2020 10:45,12,7,1
+25,25/4/2020,Dakshina Kannada,Karnataka,25/4/2020 10:45,5,67,11
+26,25/4/2020,Mandya,Karnataka,25/4/2020 10:45,4,0,0
+27,25/4/2020,Mysore,Karnataka,25/4/2020 10:45,5,38,0
+28,24/4/2020,Bagalkote,Karnataka,24/4/2020 10:45,3,8,4
+29,23/4/2020,Tumakur,Karnataka,23/4/2020 10:45,1,33,33
+30,20/4/2020,Gadag,Karnataka,20/4/2020 10:45,1,0,25
+31,22/4/2020,Dharwad,Karnataka,22/4/2020 10:45,2,22,0
+32,24/4/2020,Chikkaballapur,Karnataka,24/4/2020 10:45,2,61,11
+33,20/4/2020,Bidar,Karnataka,20/4/2020 10:45,1,60,0
+34,16/4/2020,Ballari,Karnataka,16/4/2020 10:45,0,23,0
+35,14/4/2020,Uttar Kannada,Karnataka,14/4/2020 10:45,0,90,0
+36,13/4/2020,Bengaluru Rural,Karnataka,13/4/2020 10:45,0,57,0
+37,29/3/2020,Udupi,Karnataka,29/3/2020 10:45,0,100,0
+38,23/3/2020,Chitradurga,Karnataka,23/3/2020 10:45,0,100,0
+39,28/3/2020,Davangere,Karnataka,28/3/2020 10:45,0,100,0
+40,18/3/2020,Kodagu,Karnataka,18/3/2020 10:45,0,100,0
+41,25/4/2020,Bengaluru Urban,Karnataka,25/4/2020 10:45,44,38,2
+42,24/4/2020,Vijayapura,Karnataka,24/4/2020 10:45,17,0,5
+43,23/4/2020,Kalburgi,Karnataka,23/4/2020 10:45,15,19,10
+44,25/4/2020,Belagavi,Karnataka,25/4/2020 10:45,12,7,1
+45,25/4/2020,Dakshina Kannada,Karnataka,25/4/2020 10:45,5,67,11
+46,24/4/2020,Mandya,Karnataka,24/4/2020 10:45,4,0,0
+47,25/4/2020,Mysore,Karnataka,25/4/2020 10:45,5,38,0
+48,24/4/2020,Bagalkote,Karnataka,24/4/2020 10:45,3,8,4
+49,23/4/2020,Tumakur,Karnataka,23/4/2020 10:45,1,33,33
+50,20/4/2020,Gadag,Karnataka,20/4/2020 10:45,1,0,25
+51,22/4/2020,Dharwad,Karnataka,22/4/2020 10:45,2,22,0
+52,24/4/2020,Chikkaballapur,Karnataka,24/4/2020 10:45,2,61,11
+53,20/4/2020,Bidar,Karnataka,20/4/2020 10:45,1,60,0
+54,16/4/2020,Ballari,Karnataka,16/4/2020 10:45,0,23,0
+55,14/4/2020,Uttar Kannada,Karnataka,14/4/2020 10:45,0,90,0
+56,13/4/2020,Bengaluru Rural,Karnataka,13/4/2020 10:45,0,57,0
+57,29/3/2020,Udupi,Karnataka,29/3/2020 10:45,0,100,0
+58,23/3/2020,Chitradurga,Karnataka,23/3/202010:45,0,100,0
+59,28/3/2020,Davangere,Karnataka,28/3/2020 10:45,0,100,0
+60,18/3/2020,Kodagu,Karnataka,18/3/2020 10:45,0,100,0
+61,26/4/2020,Bengaluru Urban,Karnataka,26/4/2020 10:45,45,42,3
+62,25/4/2020,Belagavi,Karnataka,25/4/2020 10:45,12,11,1
+63,26/4/2020,Kalburgi,Karnataka,26/4/2020 10:45,8,18,10
+64,27/4/2020,Mandya,Karnataka,27/4/2020 10:45,6,22,0
+65,26/4/2020,Vijayapura,Karnataka,26/4/2020 10:45,7,15,5
+66,26/4/2020,Dakshina Kannada,Karnataka,26/4/2020 10:45,5,57,9
+67,26/4/2020,Bagalkote,Karnataka,26/4/2020 10:45,5,23,3
+68,25/4/2020,Mysore,Karnataka,25/4/2020 10:45,5,48,0
+69,23/4/2020,Tumakur,Karnataka,23/4/2020 10:45,1,33,33
+70,22/4/2020,Dharwad,Karnataka,22/4/2020 10:45,2,22,0
+71,24/4/2020,Chikkaballapur,Karnataka,24/4/2020 10:45,2,61,11
+72,20/4/2020,Bidar,Karnataka,20/4/2020 10:45,0,60,0
+73,20/4/2020,Gadag,Karnataka,20/4/2020 10:45,0,0,25
+74,16/4/2020,Ballari,Karnataka,16/4/2020 10:45,0,38,0
+75,14/4/2020,Uttar Kannada,Karnataka,14/4/2020 10:45,0,90,0
+76,13/4/2020,Bengaluru Rural,Karnataka,13/4/2020 10:45,0,86,0
+77,23/3/2020,Chitradurga,Karnataka,23/3/2020 10:45,0,100,0
+78,28/3/2020,Davangere,Karnataka,28/3/2020 10:45,0,100,0
+79,18/3/2020,Kodagu,Karnataka,18/3/2020 10:45,0,100,0
+80,29/3/2020,Udupi,Karnataka,29/3/2020 10:45,0,100,0
+81,27/4/2020,Bengaluru Urban,Karnataka,27/4/2020 10:45,44,46,3
+82,28/4/2020,Kalburgi,Karnataka,28/4/2020 10:45,12,15,10
+83,25/4/2020,Belagavi,Karnataka,25/4/2020 10:45,11,11,1
+84,27/4/2020,Mandya,Karnataka,27/4/2020 10:45,6,22,0
+85,26/4/2020,Vijayapura,Karnataka,26/4/2020 10:45,6,15,5
+86,26/4/2020,Dakshina Kannada,Karnataka,26/4/2020 10:45,5,57,9
+87,26/4/2020,Bagalkote,Karnataka,26/4/2020 10:45,5,23,3
+88,25/4/2020,Mysore,Karnataka,25/4/2020 10:45,3,56,0
+89,23/4/2020,Tumakur,Karnataka,23/4/2020 10:45,1,33,33
+90,22/4/2020,Dharwad,Karnataka,22/4/2020 10:45,2,22,0
+91,27/4/2020,Gadag,Karnataka,27/4/2020 10:45,1,0,20
+92,24/4/2020,Chikkaballapur,Karnataka,24/4/2020 10:45,2,61,11
+93,20/4/2020,Bidar,Karnataka,20/4/2020 10:45,0,60,0
+94,16/4/2020,Ballari,Karnataka,16/4/2020 10:45,0,38,0
+95,14/4/2020,Uttar Kannada,Karnataka,14/4/2020 10:45,0,90,0
+96,13/4/2020,Bengaluru Rural,Karnataka,13/4/2020 10:45,0,100,0
+97,23/3/2020,Chitradurga,Karnataka,23/3/2020 10:45,0,100,0
+98,28/3/2020,Davangere,Karnataka,28/3/2020 10:45,0,100,0
+99,18/3/2020,Kodagu,Karnataka,18/3/2020 10:45,0,100,0
+100,29/3/2020,Udupi,Karnataka,29/3/2020 10:45,0,100,0
+101,27/4/2020,Bengaluru Urban,Karnataka,27/4/2020 10:45,35,46,3
+102,28/4/2020,Kalburgi,Karnataka,28/4/2020 10:45,20,13,8
+103,28/4/2020,Belagavi,Karnataka,28/4/2020 10:45,12,13,1
+104,26/4/2020,Bagalkote,Karnataka,26/4/2020 10:45,5,23,3
+105,26/4/2020,Dakshina Kannada,Karnataka,26/4/2020 10:45,4,57,9
+106,27/4/2020,Mandya,Karnataka,27/4/2020 10:45,4,22,0
+107,26/4/2020,Vijayapura,Karnataka,26/4/2020 10:45,4,15,5
+108,24/4/2020,Chikkaballapur,Karnataka,24/4/2020 10:45,2,61,11
+109,29/4/2020,Mysore,Karnataka,29/4/2020 10:45,2,63,0
+110,29/4/2020,Davangere,Karnataka,29/4/2020 10:45,1,67,0
+111,27/4/2020,Gadag,Karnataka,27/4/2020 10:45,1,0,20
+112,23/4/2020,Tumakur,Karnataka,23/4/2020 10:45,1,33,33
+113,22/4/2020,Dharwad,Karnataka,22/4/2020 10:45,0,22,0
+114,20/4/2020,Bidar,Karnataka,20/4/2020 10:45,0,60,0
+115,16/4/2020,Ballari,Karnataka,16/4/2020 10:45,0,38,0
+116,14/4/2020,Uttar Kannada,Karnataka,14/4/2020 10:45,0,90,0
+117,13/4/2020,Bengaluru Rural,Karnataka,13/4/2020 10:45,0,100,0
+118,29/3/2020,Udupi,Karnataka,29/3/2020 10:45,0,100,0
+119,23/3/2020,Chitradurga,Karnataka,23/3/2020 10:45,0,100,0
+120,18/3/2020,Kodagu,Karnataka,18/3/2020 10:45,0,100,0
+121,30/4/2020,Bengaluru Urban,Karnataka,30/4/2020 10:45,33,46,3
+122,29/4/2020,Belagavi,Karnataka,29/4/2020 10:45,24,10,1
+123,30/4/2020,Kalburgi,Karnataka,30/4/2020 10:45,20,14,8
+124,29/4/2020,Dakshina Kannada,Karnataka,29/4/2020 10:45,5,55,9
+125,29/4/2020,Vijayapura,Karnataka,29/4/2020 10:45,5,14,4
+126,27/4/2020,Mandya,Karnataka,27/4/2020 10:45,4,22,0
+127,26/4/2020,Bagalkote,Karnataka,26/4/2020 10:45,3,23,3
+128,29/4/2020,Davangere,Karnataka,29/4/2020 10:45,2,50,0
+129,29/4/2020,Mysore,Karnataka,29/4/2020 10:45,2,69,0
+130,28/4/2020,Tumakur,Karnataka,28/4/2020 10:45,2,20,40
+131,24/4/2020,Chikkaballapur,Karnataka,24/4/2020 10:45,1,61,11
+132,27/4/2020,Gadag,Karnataka,27/4/2020 10:45,1,0,20
+133,22/4/2020,Dharwad,Karnataka,22/4/2020 10:45,0,22,0
+134,20/4/2020,Bidar,Karnataka,20/4/2020 10:45,0,60,0
+135,16/4/2020,Ballari,Karnataka,16/4/2020 10:45,0,38,0
+136,14/4/2020,Uttar Kannada,Karnataka,14/4/2020 10:45,0,90,0
+137,13/4/2020,Bengaluru Rural,Karnataka,13/4/2020 10:45,0,100,0
+138,29/3/2020,Udupi,Karnataka,29/3/2020 10:45,0,100,0
+139,23/3/2020,Chitradurga,Karnataka,23/3/2020 10:45,0,100,0
+140,18/3/2020,Kodagu,Karnataka,18/3/2020 10:45,0,100,0
+141,1/5/2020,Kalburgi,Karnataka,1/5/2020 10:45,23,20,8
+142,30/4/2020,Belagavi,Karnataka,30/4/2020 10:45,21,10,1
+143,30/4/2020,Bengaluru Urban,Karnataka,30/4/2020 10:45,19,51,3
+144,30/4/2020,Mandya,Karnataka,30/4/2020 10:45,10,15,0
+145,1/5/2020,Davangere,Karnataka,1/5/2020 10:45,8,20,0
+146,30/4/2020,Dakshina Kannada,Karnataka,30/4/2020 10:45,7,50,12
+147,30/4/2020,Vijayapura,Karnataka,30/4/2020 10:45,5,26,4
+148,26/4/2020,Bagalkote,Karnataka,26/4/2020 10:45,2,23,3
+149,29/4/2020,Mysore,Karnataka,29/4/2020 10:45,2,73,0
+150,28/4/2020,Tumakur,Karnataka,28/4/2020 10:45,2,20,40
+151,1/5/2020,Chikkaballapur,Karnataka,1/5/2020 10:45,1,58,10
+152,27/4/2020,Gadag,Karnataka,27/4/2020 10:45,1,20,20
+153,22/4/2020,Dharwad,Karnataka,22/4/2020 10:45,0,22,0
+154,20/4/2020,Bidar,Karnataka,20/4/2020 10:45,0,60,0
+155,16/4/2020,Ballari,Karnataka,16/4/2020 10:45,0,54,0
+156,14/4/2020,Uttar Kannada,Karnataka,14/4/2020 10:45,0,100,0
+157,13/4/2020,Bengaluru Rural,Karnataka,13/4/2020 10:45,0,100,0
+158,29/3/2020,Udupi,Karnataka,29/3/2020 10:45,0,100,0
+159,23/3/2020,Chitradurga,Karnataka,23/3/2020 10:45,0,100,0
+160,18/3/2020,Kodagu,Karnataka,18/3/2020 10:45,0,100,0
+161,3/5/2020,Bengaluru Urban,Karnataka,3/5/2020 10:45,19,48,4
+162,29/4/2020,Mysore,Karnataka,29/4/2020 10:45,1,76,0
+163,13/4/2020,Bengaluru Rural,Karnataka,13/4/2020 10:45,0,100,0
+164,1/5/2020,Belagavi,Karnataka,1/5/2020 10:45,19,21,1
+165,3/5/2020,Kalburgi,Karnataka,3/5/2020 10:45,23,30,8
+166,1/5/2020,Vijayapura,Karnataka,1/5/2020 10:45,5,33,4
+167,2/5/2020,Bagalkote,Karnataka,2/5/2020 10:45,7,30,3
+168,30/4/2020,Mandya,Karnataka,30/4/2020 10:45,9,15,0
+169,30/4/2020,Dakshina Kannada,Karnataka,30/4/2020 10:45,3,33,16
+170,1/5/2020,Chikkaballapur,Karnataka,1/5/2020 10:45,2,60,10
+171,1/5/2020,Davangere,Karnataka,1/5/2020 10:45,8,20,10
+172,16/4/2020,Ballari,Karnataka,16/4/2020 10:45,0,62,0
+173,1/5/2020,Tumakur,Karnataka,1/5/2020 10:45,4,14,28
+174,1/5/2020,Dharwad,Karnataka,1/5/2020 10:45,1,40,0
+175,27/4/2020,Gadag,Karnataka,27/4/2020 10:45,1,20,20
+176,1/5/2020,Bidar,Karnataka,1/5/2020 10:45,1,67,6
+177,14/4/2020,Uttar Kannada,Karnataka,14/4/2020 10:45,0,100,0
+178,29/3/2020,Udupi,Karnataka,29/3/2020 10:45,0,100,0
+179,23/3/2020,Chitradurga,Karnataka,23/3/2020 10:45,0,100,0
+180,18/3/2020,Kodagu,Karnataka,18/3/2020 10:45,0,100,0
+181,4/5/2020,Bengaluru Urban,Karnataka,4/5/2020 10:45,19,50,4
+182,29/4/2020,Mysore,Karnataka,29/4/2020 10:45,1,88,0
+183,13/4/2020,Bengaluru Rural,Karnataka,13/4/2020 10:45,0,100,0
+184,1/5/2020,Belagavi,Karnataka,1/5/2020 10:45,19,37,1
+185,4/5/2020,Kalburgi,Karnataka,4/5/2020 10:45,25,33,9
+186,3/5/2020,Vijayapura,Karnataka,3/5/2020 10:45,6,40,4
+187,4/5/2020,Davangere,Karnataka,4/5/2020 10:45,30,6,6
+188,2/5/2020,Bagalkote,Karnataka,2/5/2020 10:45,7,30,3
+189,3/5/2020,Mandya,Karnataka,3/5/2020 10:45,10,25,0
+190,30/4/2020,Dakshina Kannada,Karnataka,30/4/2020 10:45,3,33,16
+191,4/5/2020,Bidar,Karnataka,4/5/2020 10:45,8,45,4
+192,3/5/2020,Chikkaballapur,Karnataka,3/5/2020 10:45,3,57,9
+193,16/4/2020,Ballari,Karnataka,16/4/2020 10:45,0,62,0
+194,1/5/2020,Tumakur,Karnataka,1/5/2020 10:45,4,14,28
+195,1/5/2020,Dharwad,Karnataka,1/5/2020 10:45,1,60,0
+196,27/4/2020,Gadag,Karnataka,27/4/2020 10:45,0,20,20
+197,3/5/2020,Haveri,Karnataka,3/5/2020 10:45,1,0,0
+198,14/4/2020,Uttar Kannada,Karnataka,14/4/2020 10:45,0,100,0
+199,29/3/2020,Udupi,Karnataka,29/3/2020 10:45,0,100,0
+200,23/3/2020,Chitradurga,Karnataka,23/3/2020 10:45,0,100,0
+201,18/3/2020,Kodagu,Karnataka,18/3/2020 10:45,0,100,0
+202,4/5/2020,Bengaluru Urban,Karnataka,4/5/2020 10:45,22,49,3
+203,29/4/2020,Mysore,Karnataka,29/4/2020  10:45,1,91,0
+204,13/4/2020,Bengaluru Rural,Karnataka,13/4/2020 10:45,0,100,0
+205,1/5/2020,Belagavi,Karnataka,1/5/2020 10:45,18,37,1
+206,4/5/2020,Kalburgi,Karnataka,4/5/2020 10:45,11,35,9
+207,5/5/2020,Davangere,Karnataka,5/5/2020 10:45,42,5,6
+208,3/5/2020,Vijayapura,Karnataka,3/5/2020 10:45,6,47,6
+209,4/5/2020,Bagalkote,Karnataka,4/5/2020 10:45,6,37,2
+210,3/5/2020,Mandya,Karnataka,3/5/2020 10:45,10,25,0
+211,5/5/2020,Dakshina Kannada,Karnataka,5/5/2020 10:45,4,32,15
+212,4/5/2020,Bidar,Karnataka,4/5/2020 10:45,8,45,4
+213,4/5/2020,Ballari,Karnataka,4/5/2020 10:45,1,57,0
+214,3/5/2020,Chikkaballapur,Karnataka,3/5/2020 10:45,3,57,9
+215,5/5/2020,Dharwad,Karnataka,5/5/2020 10:45,2,55,0
+216,1/5/2020,Tumakur,Karnataka,1/5/2020 10:45,2,14,28
+217,27/4/2020,Gadag,Karnataka,27/4/2020 10:45,0,20,20
+218,5/5/2020,Haveri,Karnataka,5/5/2020 10:45,2,0,0
+219,5/5/2020,Uttar Kannada,Karnataka,5/5/2020 10:45,1,92,0
+220,29/3/2020,Udupi,Karnataka,29/3/2020 10:45,0,100,0
+221,23/3/2020,Chitradurga,Karnataka,23/3/2020 10:45,0,100,0
+222,18/3/2020,Kodagu,Karnataka,18/3/2020 10:45,0,100,0
+223,5/5/2020,Bengaluru Urban,Karnataka,5/5/2020 10:45,21,48,3
+224,29/4/2020,Mysore,Karnataka,29/4/2020 10:45,0,91,0
+225,13/4/2020,Bengaluru Rural,Karnataka,13/4/2020 10:45,0,100,0
+226,5/5/2020,Kalburgi,Karnataka,5/5/2020 10:45,12,42,9
+227,5/5/2020,Davangere,Karnataka,5/5/2020 10:45,40,5,6
+228,1/5/2020,Belagavi,Karnataka,1/5/2020 10:45,4,46,1
+229,5/5/2020,Bagalkote,Karnataka,5/5/2020 10:45,19,35,2
+230,6/5/2020,Vijayapura,Karnataka,6/5/2020 10:45,5,48,6
+231,3/5/2020,Mandya,Karnataka,3/5/2020 10:45,10,39,0
+232,5/5/2020,Dakshina Kannada,Karnataka,5/5/2020 10:45,6,32,13
+233,4/5/2020,Bidar,Karnataka,4/5/2020 10:45,8,45,4
+234,4/5/2020,Ballari,Karnataka,4/5/2020 10:45,1,57,0
+235,3/5/2020,Chikkaballapur,Karnataka,3/5/2020 10:45,3,57,9
+236,5/5/2020,Dharwad,Karnataka,5/5/2020 10:45,2,55,0
+237,1/5/2020,Tumakur,Karnataka,1/5/2020 10:45,2,14,28
+238,27/4/2020,Gadag,Karnataka,27/4/2020 10:45,0,20,20
+239,5/5/2020,Haveri,Karnataka,5/5/2020 10:45,2,0,0
+240,5/5/2020,Uttar Kannada,Karnataka,5/5/2020 10:45,1,92,0
+241,29/3/2020,Udupi,Karnataka,29/3/2020 10:45,0,100,0
+242,23/3/2020,Chitradurga,Karnataka,23/3/2020 10:45,0,100,0
+243,18/3/2020,Kodagu,Karnataka,18/3/2020 10:45,0,100,0
+244,6/5/2020,Bengaluru Urban,Karnataka,6/5/2020 10:45,15,49,3
+245,13/4/2020,Bengaluru Rural,Karnataka,13/4/2020 10:45,0,100,0
+246,29/4/2020,Mysore,Karnataka,29/4/2020 10:45,0,92,0
+247,6/5/2020,Kalburgi,Karnataka,6/5/2020 10:45,14,43,9
+248,6/5/2020,Davangere,Karnataka,6/5/2020 10:45,43,4,8
+249,6/5/2020,Belagavi,Karnataka,6/5/2020 10:45,2,46,1
+250,7/5/2020,Bagalkote,Karnataka,7/5/2020 10:45,22,35,2
+251,6/5/2020,Vijayapura,Karnataka,6/5/2020 10:45,4,50,6
+252,3/5/2020,Mandya,Karnataka,3/5/2020 10:45,2,39,0
+253,5/5/2020,Dakshina Kannada,Karnataka,5/5/2020 10:45,4,32,13
+254,4/5/2020,Bidar,Karnataka,4/5/2020 10:45,8,55,4
+255,7/5/2020,Dharwad,Karnataka,7/5/2020 10:45,3,50,0
+256,3/5/2020,Chikkaballapur,Karnataka,3/5/2020 10:45,3,57,9
+257,1/5/2020,Tumakur,Karnataka,1/5/2020 10:45,2,14,28
+258,27/4/2020,Gadag,Karnataka,27/4/2020 10:45,0,20,20
+259,5/5/2020,Haveri,Karnataka,5/5/2020 10:45,2,0,0
+260,4/5/2020,Ballari,Karnataka,4/5/2020 10:45,1,64,0
+261,5/5/2020,Uttar Kannada,Karnataka,5/5/2020 10:45,1,92,0
+262,29/3/2020,Udupi,Karnataka,29/3/2020 10:45,0,100,0
+263,23/3/2020,Chitradurga,Karnataka,23/3/2020 10:45,0,100,0
+264,18/3/2020,Kodagu,Karnataka,18/3/2020 10:45,0,100,0
+265,8/5/2020,Bengaluru Urban,Karnataka,8/5/2020 10:45,21,50,3
+266,13/4/2020,Bengaluru Rural,Karnataka,13/4/2020 10:45,0,100,0
+267,29/4/2020,Mysore,Karnataka,29/4/2020 10:45,0,92,0
+268,8/5/2020,Davangere,Karnataka,8/5/2020 10:45,51,3,6
+269,6/5/2020,Kalburgi,Karnataka,6/5/2020 10:45,12,43,9
+270,7/5/2020,Belagavi,Karnataka,7/5/2020 10:45,12,40,1
+271,7/5/2020,Bagalkote,Karnataka,7/5/2020 10:45,21,35,2
+272,6/5/2020,Vijayapura,Karnataka,6/5/2020 10:45,2,50,6
+273,3/5/2020,Mandya,Karnataka,3/5/2020 10:45,2,39,0
+274,5/5/2020,Dakshina Kannada,Karnataka,5/5/2020 10:45,4,32,13
+275,8/5/2020,Uttar Kannada,Karnataka,8/5/2020 10:45,13,46,0
+276,4/5/2020,Bidar,Karnataka,4/5/2020 10:45,7,55,4
+277,3/5/2020,Chikkaballapur,Karnataka,3/5/2020 10:45,1,57,9
+278,7/5/2020,Dharwad,Karnataka,7/5/2020 10:45,2,50,0
+279,1/5/2020,Tumakur,Karnataka,1/5/2020 10:45,0,14,28
+280,8/5/2020,Chitradurga,Karnataka,8/5/2020 10:45,3,25,0
+281,7/5/2020,Ballari,Karnataka,7/5/2020 10:45,2,60,0
+282,27/4/2020,Gadag,Karnataka,27/4/2020 10:45,0,20,20
+283,5/5/2020,Haveri,Karnataka,5/5/2020 10:45,2,0,0
+284,29/3/2020,Udupi,Karnataka,29/3/2020 10:45,0,100,0
+285,18/3/2020,Kodagu,Karnataka,18/3/2020 10:45,0,100,0
+286,8/5/2020,Bengaluru Urban,Karnataka,8/5/2020 10:45,30,50,3
+287,13/4/2020,Bengaluru Rural,Karnataka,13/4/2020 10:45,0,100,0
+288,29/4/2020,Mysore,Karnataka,29/4/2020 10:45,0,94,0
+289,8/5/2020,Davangere,Karnataka,8/5/2020 10:45,57,3,6
+290,6/5/2020,Kalburgi,Karnataka,6/5/2020 10:45,9,46,9
+291,7/5/2020,Belagavi,Karnataka,7/5/2020 10:45,12,40,1
+292,7/5/2020,Bagalkote,Karnataka,7/5/2020 10:45,18,35,2
+293,8/5/2020,Vijayapura,Karnataka,8/5/2020 10:45,3,51,6
+294,9/5/2020,Uttar Kannada,Karnataka,9/5/2020 10:45,21,34,0
+295,9/5/2020,Dakshina Kannada,Karnataka,9/5/2020 10:45,7,28,12
+296,3/5/2020,Mandya,Karnataka,3/5/2020 10:45,2,50,0
+297,8/5/2020,Bidar,Karnataka,8/5/2020 10:45,10,48,4
+298,9/5/2020,Tumakur,Karnataka,9/5/2020 10:45,4,18,18
+299,9/5/2020,Chikkaballapur,Karnataka,9/5/2020 10:45,2,55,9
+300,9/5/2020,Chitradurga,Karnataka,9/5/2020 10:45,6,14,0
+301,7/5/2020,Dharwad,Karnataka,7/5/2020 10:45,2,58,0
+302,7/5/2020,Ballari,Karnataka,7/5/2020 10:45,2,73,0
+303,27/4/2020,Gadag,Karnataka,27/4/2020 10:45,0,20,20
+304,5/5/2020,Haveri,Karnataka,5/5/2020 10:45,2,0,0
+305,29/3/2020,Udupi,Karnataka,29/3/2020 10:45,0,100,0
+306,18/3/2020,Kodagu,Karnataka,18/3/2020 10:45,0,100,0
+307,9/5/2020,Bengaluru Urban,Karnataka,9/5/2020 10:45,28,50,4
+308,13/4/2020,Bengaluru Rural,Karnataka,13/4/2020 10:45,0,100,0
+309,29/4/2020,Mysore,Karnataka,29/4/2020 10:45,0,95,0
+310,9/5/2020,Belagavi,Karnataka,9/5/2020 10:45,42,32,1
+311,9/5/2020,Davangere,Karnataka,9/5/2020 10:45,37,3,5
+312,10/5/2020,Kalburgi,Karnataka,10/5/2020 10:45,10,44,8
+313,7/5/2020,Bagalkote,Karnataka,7/5/2020 10:45,18,35,2
+314,9/5/2020,Uttar Kannada,Karnataka,9/5/2020 10:45,28,28,0
+315,8/5/2020,Vijayapura,Karnataka,8/5/2020 10:45,2,63,6
+316,9/5/2020,Dakshina Kannada,Karnataka,9/5/2020 10:45,7,28,12
+317,3/5/2020,Mandya,Karnataka,3/5/2020 10:45,0,50,0
+318,8/5/2020,Bidar,Karnataka,8/5/2020 10:45,10,48,4
+319,9/5/2020,Tumakur,Karnataka,9/5/2020 10:45,4,18,18
+320,10/5/2020,Shimogga,Karnataka,10/5/2020 10:45,8,0,0
+321,9/5/2020,Chikkaballapur,Karnataka,9/5/2020 10:45,2,70,8
+322,9/5/2020,Chitradurga,Karnataka,9/5/2020 10:45,6,14,0
+323,7/5/2020,Dharwad,Karnataka,7/5/2020 10:45,2,58,0
+324,7/5/2020,Ballari,Karnataka,7/5/2020 10:45,2,73,0
+325,27/4/2020,Gadag,Karnataka,27/4/2020 10:45,0,80,20
+326,5/5/2020,Haveri,Karnataka,5/5/2020 10:45,1,0,0
+327,29/3/2020,Udupi,Karnataka,29/3/2020 10:45,0,100,0
+328,18/3/2020,Kodagu,Karnataka,18/3/2020 10:45,0,100,0
+329,11/5/2020,Bengaluru Urban,Karnataka,11/5/2020 10:45,25,50,3
+330,13/4/2020,Bengaluru Rural,Karnataka,13/4/2020 10:45,0,100,0
+331,29/4/2020,Mysore,Karnataka,29/4/2020 10:45,0,95,0
+332,9/5/2020,Belagavi,Karnataka,9/5/2020 10:45,42,32,1
+333,10/5/2020,Davangere,Karnataka,10/5/2020 10:45,39,3,5
+334,10/5/2020,Kalburgi,Karnataka,10/5/2020 10:45,9,43,8
+335,10/5/2020,Bagalkote,Karnataka,10/5/2020 10:45,18,34,2
+336,9/5/2020,Uttar Kannada,Karnataka,9/5/2020 10:45,28,28,0
+337,11/5/2020,Mandya,Karnataka,11/5/2020 10:45,2,47,0
+338,10/5/2020,Vijayapura,Karnataka,10/5/2020 10:45,3,62,6
+339,9/5/2020,Dakshina Kannada,Karnataka,9/5/2020 10:45,7,28,12
+340,10/5/2020,Bidar,Karnataka,10/5/2020 10:45,5,44,3
+341,9/5/2020,Tumakur,Karnataka,9/5/2020 10:45,4,18,18
+342,10/5/2020,Shimogga,Karnataka,10/5/2020 10:45,8,0,0
+343,9/5/2020,Chikkaballapur,Karnataka,9/5/2020 10:45,2,70,8
+344,9/5/2020,Chitradurga,Karnataka,9/5/2020 10:45,6,14,0
+345,7/5/2020,Dharwad,Karnataka,7/5/2020 10:45,2,58,0
+346,10/5/2020,Haveri,Karnataka,10/5/2020 10:45,2,0,0
+347,7/5/2020,Ballari,Karnataka,7/5/2020 10:45,1,73,0
+348,27/4/2020,Gadag,Karnataka,27/4/2020 10:45,0,80,20
+349,29/3/2020,Udupi,Karnataka,29/3/2020 10:45,0,100,0
+350,18/3/2020,Kodagu,Karnataka,18/3/2020 10:45,0,100,0
+351,12/5/2020,Bengaluru Urban,Karnataka,12/5/2020 10:45,27,50,3
+352,13/4/2020,Bengaluru Rural,Karnataka,13/4/2020 10:45,0,100,0
+353,29/4/2020,Mysore,Karnataka,29/4/2020 10:45,0,95,0
+354,12/5/2020,Davangere,Karnataka,12/5/2020 10:45,39,2,4
+355,9/5/2020,Belagavi,Karnataka,9/5/2020 10:45,42,32,1
+356,11/5/2020,Bagalkote,Karnataka,11/5/2020 10:45,20,40,1
+357,11/5/2020,Kalburgi,Karnataka,11/5/2020 10:45,9,60,8
+358,9/5/2020,Uttar Kannada,Karnataka,9/5/2020 10:45,27,28,0
+359,11/5/2020,Mandya,Karnataka,11/5/2020 10:45,3,45,0
+360,11/5/2020,Dakshina Kannada,Karnataka,11/5/2020 10:45,5,26,11
+361,11/5/2020,Bidar,Karnataka,11/5/2020 10:45,7,45,3
+362,10/5/2020,Vijayapura,Karnataka,10/5/2020 10:45,3,68,6
+363,11/5/2020,Dharwad,Karnataka,11/5/2020 10:45,10,33,0
+364,9/5/2020,Tumakur,Karnataka,9/5/2020 10:45,4,18,18
+365,11/5/2020,Chikkaballapur,Karnataka,11/5/2020 10:45,3,67,8
+366,10/5/2020,Shimogga,Karnataka,10/5/2020 10:45,8,0,0
+367,9/5/2020,Chitradurga,Karnataka,9/5/2020 10:45,6,14,0
+368,12/5/2020,Hassan,Karnataka,12/5/2020 10:45,5,0,0
+369,12/5/2020,Kolar,Karnataka,12/5/2020 10:45,5,0,0
+370,12/5/2020,Gadag,Karnataka,12/5/2020 10:45,3,50,12
+371,11/5/2020,Ballari,Karnataka,11/5/2020 10:45,2,69,0
+372,10/5/2020,Haveri,Karnataka,10/5/2020 10:45,1,0,0
+373,11/5/2020,Yadigir,Karnataka,11/5/2020 10:45,2,0,0
+374,29/3/2020,Udupi,Karnataka,29/3/2020 10:45,0,100,0
+375,18/3/2020,Kodagu,Karnataka,18/3/2020 10:45,0,100,0
+376,24/4/2020,South Andaman,Andaman & Nicobar Islands,24/4/2020 10:45,0,100,0
+377,25/4/2020,South Andaman,Andaman & Nicobar Islands,25/4/2020 10:45,0,100,0
+378,26/4/2020,South Andaman,Andaman & Nicobar Islands,26/4/2020 10:45,0,100,0
+379,27/4/2020,South Andaman,Andaman & Nicobar Islands,27/4/2020 10:45,0,100,0
+380,28/4/2020,South Andaman,Andaman & Nicobar Islands,28/4/2020 10:45,1,100,0
+381,29/4/2020,South Andaman,Andaman & Nicobar Islands,29/4/2020 10:45,1,100,0
+382,30/4/2020,South Andaman,Andaman & Nicobar Islands,30/4/2020 10:45,5,100,0
+383,1/5/2020,South Andaman,Andaman & Nicobar Islands,1/5/2020 10:45,10,100,0
+384,2/5/2020,South Andaman,Andaman & Nicobar Islands,2/5/2020 10:45,10,100,0
+385,3/5/2020,South Andaman,Andaman & Nicobar Islands,3/5/2020 10:45,11,100,0
+386,4/5/2020,South Andaman,Andaman & Nicobar Islands,4/5/2020 10:45,20,100,0
+387,5/5/2020,South Andaman,Andaman & Nicobar Islands,5/5/2020 10:45,21,100,0
+388,6/5/2020,South Andaman,Andaman & Nicobar Islands,6/5/2020 10:45,22,100,0
+389,7/5/2020,South Andaman,Andaman & Nicobar Islands,7/5/2020 10:45,22,100,0
+390,8/5/2020,South Andaman,Andaman & Nicobar Islands,8/5/2020 10:45,25,100,0
+391,9/5/2020,South Andaman,Andaman & Nicobar Islands,9/5/2020 10:45,30,100,0
+392,10/5/2020,South Andaman,Andaman & Nicobar Islands,10/5/2020 10:45,33,100,0
+393,24/4/2020,Anantapur,Andhra Pradesh,24/4/2020 10:45,6,33,2
+394,24/4/2020,Chitoor,Andhra Pradesh,24/4/2020 10:45,7,0,5
+395,23/4/2020,East Godavar,Andhra Pradesh,23/4/2020 10:45,4,10,6
+396,22/4/2020,Guntur,Andhra Pradesh,22/4/2020 10:45,58,28,5
+397,24/4/2020,Kadappa,Andhra Pradesh,24/4/2020 10:45,9,3,5
+398,22/4/2020,Krishna,Andhra Pradesh,22/4/2020 10:45,44,60,1
+399,24/4/2020,Nellore,Andhra Pradesh,24/4/2020 10:45,49,0,1
+400,23/4/2020,Prakasam,Andhra Pradesh,23/4/2020 10:45,28,5,2
+401,23/4/2020,Kurnool,Andhra Pradesh,23/4/2020 10:45,99,28,6
+402,20/4/2020,VIsakhapatnam,Andhra Pradesh,23/4/2020 10:45,3,0,3
+403,22/4/2020,West Godavari,Andhra Pradesh,22/4/2020 10:45,13,11,0
+404,25/4/2020,Anantapur,Andhra Pradesh,25/4/2020 10:45,6,33,2
+405,24/4/2020,Chitoor,Andhra Pradesh,24/4/2020 10:45,8,0,7
+406,23/4/2020,East Godavar,Andhra Pradesh,23/4/2020 10:45,6,10,6
+407,25/4/2020,Guntur,Andhra Pradesh,25/4/2020 10:45,97,28,5
+408,25/4/2020,Kadappa,Andhra Pradesh,25/4/2020 10:45,13,3,5
+409,25/4/2020,Krishna,Andhra Pradesh,25/4/2020 10:45,48,62,1
+410,25/4/2020,Nellore,Andhra Pradesh,25/4/2020 10:45,50,0,1
+411,24/4/2020,Prakasam,Andhra Pradesh,24/4/2020 10:45,37,5,2
+412,23/4/2020,Kurnool,Andhra Pradesh,23/4/2020 10:45,113,29,6
+413,20/4/2020,VIsakhapatnam,Andhra Pradesh,20/4/2020 10:45,6,0,3
+414,22/4/2020,West Godavari,Andhra Pradesh,22/4/2020 10:45,18,11,1
+415,25/4/2020,Anantapur,Andhra Pradesh,25/4/2020 10:45,10,33,2
+416,24/4/2020,Chitoor,Andhra Pradesh,24/4/2020 10:45,8,0,7
+417,23/4/2020,East Godavar,Andhra Pradesh,23/4/2020 10:45,6,10,6
+418,25/4/2020,Guntur,Andhra Pradesh,25/4/2020 10:45,107,28,5
+419,25/4/2020,Kadappa,Andhra Pradesh,25/4/2020 10:45,14,3,5
+420,24/4/2020,Krishna,Andhra Pradesh,24/4/2020 10:45,49,65,1
+421,25/4/2020,Nellore,Andhra Pradesh,25/4/2020 10:45,52,0,1
+422,24/4/2020,Prakasam,Andhra Pradesh,24/4/2020 10:45,43,5,2
+423,23/4/2020,Kurnool,Andhra Pradesh,23/4/2020 10:45,119,29,6
+424,20/4/2020,VIsakhapatnam,Andhra Pradesh,20/4/2020 10:45,6,0,3
+425,22/4/2020,West Godavari,Andhra Pradesh,22/4/2020 10:45,20,11,1
+426,26/4/2020,Anantapur,Andhra Pradesh,26/4/2020 10:45,12,34,2
+427,25/4/2020,Chitoor,Andhra Pradesh,25/4/2020 10:45,10,0,7
+428,26/4/2020,East Godavar,Andhra Pradesh,26/4/2020 10:45,6,10,6
+429,27/4/2020,Guntur,Andhra Pradesh,27/4/2020 10:45,107,28,6
+430,26/4/2020,Kadappa,Andhra Pradesh,26/4/2020 10:45,15,5,5
+431,26/4/2020,Krishna,Andhra Pradesh,26/4/2020 10:45,55,65,1
+432,26/4/2020,Nellore,Andhra Pradesh,26/4/2020 10:45,56,0,1
+433,25/4/2020,Prakasam,Andhra Pradesh,25/4/2020 10:45,43,5,4
+434,23/4/2020,Kurnool,Andhra Pradesh,23/4/2020 10:45,123,29,6
+435,22/4/2020,VIsakhapatnam,Andhra Pradesh,22/4/2020 10:45,10,0,3
+436,24/4/2020,West Godavari,Andhra Pradesh,24/4/2020 10:45,25,11,1
+437,27/4/2020,Anantapur,Andhra Pradesh,27/4/2020 10:45,12,34,2
+438,28/4/2020,Chitoor,Andhra Pradesh,28/4/2020 10:45,11,0,7
+439,25/4/2020,East Godavar,Andhra Pradesh,25/4/2020 10:45,6,10,6
+440,27/4/2020,Guntur,Andhra Pradesh,27/4/2020 10:45,110,28,6
+441,26/4/2020,Kadappa,Andhra Pradesh,26/4/2020 10:45,20,5,5
+442,26/4/2020,Krishna,Andhra Pradesh,26/4/2020 10:45,57,65,1
+443,26/4/2020,Nellore,Andhra Pradesh,26/4/2020 10:45,56,0,1
+444,25/4/2020,Prakasam,Andhra Pradesh,25/4/2020 10:45,43,5,4
+445,23/4/2020,Kurnool,Andhra Pradesh,23/4/2020 10:45,126,29,6
+446,22/4/2020,VIsakhapatnam,Andhra Pradesh,22/4/2020 10:45,12,0,3
+447,27/4/2020,West Godavari,Andhra Pradesh,27/4/2020 10:45,28,17,2
+448,27/4/2020,Anantapur,Andhra Pradesh,27/4/2020 10:45,14,26,2
+449,28/4/2020,Chitoor,Andhra Pradesh,28/4/2020 10:45,12,0,7
+450,28/4/2020,East Godavar,Andhra Pradesh,28/4/2020 10:45,6,10,7
+451,26/4/2020,Guntur,Andhra Pradesh,26/4/2020 10:45,110,28,6
+452,26/4/2020,Kadappa,Andhra Pradesh,26/4/2020 10:45,24,5,5
+453,27/4/2020,Krishna,Andhra Pradesh,27/4/2020 10:45,60,66,1
+454,26/4/2020,Nellore,Andhra Pradesh,26/4/2020 10:45,58,0,1
+455,24/4/2020,Prakasam,Andhra Pradesh,24/4/2020 10:45,43,5,4
+456,29/4/2020,Kurnool,Andhra Pradesh,29/4/2020 10:45,132,29,6
+457,29/4/2020,VIsakhapatnam,Andhra Pradesh,29/4/2020 10:45,14,0,3
+458,27/4/2020,West Godavari,Andhra Pradesh,27/4/2020 10:45,28,17,2
+459,30/4/2020,Anantapur,Andhra Pradesh,30/4/2020 10:45,18,35,2
+460,29/4/2020,Chitoor,Andhra Pradesh,29/4/2020 10:45,15,0,7
+461,30/4/2020,East Godavar,Andhra Pradesh,30/4/2020 10:45,10,10,7
+462,29/4/2020,Guntur,Andhra Pradesh,29/4/2020 10:45,114,29,6
+463,29/4/2020,Kadappa,Andhra Pradesh,29/4/2020 10:45,27,6,5
+464,27/4/2020,Krishna,Andhra Pradesh,27/4/2020 10:45,64,66,1
+465,26/4/2020,Nellore,Andhra Pradesh,26/4/2020 10:45,65,0,1
+466,29/4/2020,Prakasam,Andhra Pradesh,29/4/2020 10:45,43,5,4
+467,29/4/2020,Kurnool,Andhra Pradesh,29/4/2020 10:45,140,33,6
+468,28/4/2020,VIsakhapatnam,Andhra Pradesh,28/4/2020 10:45,14,0,4
+469,24/4/2020,West Godavari,Andhra Pradesh,24/4/2020 10:45,30,17,2
+470,30/4/2020,Anantapur,Andhra Pradesh,30/4/2020 10:45,18,35,2
+471,30/4/2020,Chitoor,Andhra Pradesh,30/4/2020 10:45,15,0,7
+472,1/5/2020,East Godavar,Andhra Pradesh,1/5/2020 10:45,11,12,7
+473,30/4/2020,Guntur,Andhra Pradesh,30/4/2020 10:45,114,29,6
+474,30/4/2020,Kadappa,Andhra Pradesh,30/4/2020 10:45,27,6,5
+475,26/4/2020,Krishna,Andhra Pradesh,26/4/2020 10:45,67,67,1
+476,29/4/2020,Nellore,Andhra Pradesh,29/4/2020 10:45,65,0,1
+477,28/4/2020,Prakasam,Andhra Pradesh,28/4/2020 10:45,43,5,4
+478,1/5/2020,Kurnool,Andhra Pradesh,1/5/2020 10:45,145,33,6
+479,27/4/2020,VIsakhapatnam,Andhra Pradesh,27/4/2020 10:45,14,0,4
+480,22/4/2020,West Godavari,Andhra Pradesh,22/4/2020 10:45,32,17,2
+481,3/5/2020,Anantapur,Andhra Pradesh,3/5/2020 10:45,18,38,3
+482,29/4/2020,Chitoor,Andhra Pradesh,29/4/2020 10:45,17,0,7
+483,13/4/2020,East Godavar,Andhra Pradesh,13/4/2020 10:45,11,12,7
+484,1/5/2020,Guntur,Andhra Pradesh,1/5/2020 10:45,114,30,6
+485,3/5/2020,Kadappa,Andhra Pradesh,3/5/2020 10:45,27,6,5
+486,1/5/2020,Krishna,Andhra Pradesh,1/5/2020 10:45,70,68,1
+487,2/5/2020,Nellore,Andhra Pradesh,2/5/2020 10:45,65,0,1
+488,30/4/2020,Prakasam,Andhra Pradesh,30/4/2020 10:45,43,5,4
+489,30/4/2020,Kurnool,Andhra Pradesh,30/4/2020 10:45,145,33,6
+490,1/5/2020,VIsakhapatnam,Andhra Pradesh,1/5/2020 10:45,18,0,4
+491,1/5/2020,West Godavari,Andhra Pradesh,1/5/2020 10:45,32,20,2
+492,4/5/2020,Anantapur,Andhra Pradesh,4/5/2020 10:45,18,38,3
+493,29/4/2020,Chitoor,Andhra Pradesh,29/4/2020 10:45,20,0,7
+494,13/4/2020,East Godavar,Andhra Pradesh,13/4/2020 10:45,14,12,10
+495,1/5/2020,Guntur,Andhra Pradesh,1/5/2020 10:45,117,30,6
+496,4/5/2020,Kadappa,Andhra Pradesh,4/5/2020 10:45,27,6,5
+497,3/5/2020,Krishna,Andhra Pradesh,3/5/2020 10:45,72,68,1
+498,4/5/2020,Nellore,Andhra Pradesh,4/5/2020 10:45,65,0,1
+499,2/5/2020,Prakasam,Andhra Pradesh,2/5/2020 10:45,43,7,5
+500,3/5/2020,Kurnool,Andhra Pradesh,3/5/2020 10:45,150,33,6
+501,30/4/2020,VIsakhapatnam,Andhra Pradesh,30/4/2020 10:45,18,0,4
+502,4/5/2020,West Godavari,Andhra Pradesh,4/5/2020 10:45,35,20,2
+503,4/5/2020,Anantapur,Andhra Pradesh,4/5/2020 10:45,20,38,3
+504,29/4/2020,Chitoor,Andhra Pradesh,29/4/2020 10:45,20,0,7
+505,13/4/2020,East Godavar,Andhra Pradesh,13/4/2020 10:45,15,12,10
+506,1/5/2020,Guntur,Andhra Pradesh,1/5/2020 10:45,117,35,6
+507,4/5/2020,Kadappa,Andhra Pradesh,4/5/2020 10:45,27,6,5
+508,5/5/2020,Krishna,Andhra Pradesh,5/5/2020 10:45,76,68,2
+509,3/5/2020,Nellore,Andhra Pradesh,3/5/2020 10:45,65,0,1
+510,4/5/2020,Prakasam,Andhra Pradesh,4/5/2020 10:45,43,7,5
+511,3/5/2020,Kurnool,Andhra Pradesh,3/5/2020 10:45,152,33,6
+512,5/5/2020,VIsakhapatnam,Andhra Pradesh,5/5/2020 10:45,18,0,4
+513,4/5/2020,West Godavari,Andhra Pradesh,4/5/2020 10:45,35,20,2
+514,5/5/2020,Anantapur,Andhra Pradesh,5/5/2020 10:45,24,38,3
+515,29/4/2020,Chitoor,Andhra Pradesh,29/4/2020 10:45,20,0,7
+516,13/4/2020,East Godavar,Andhra Pradesh,13/4/2020 10:45,15,14,10
+517,5/5/2020,Guntur,Andhra Pradesh,5/5/2020 10:45,120,35,6
+518,5/5/2020,Kadappa,Andhra Pradesh,5/5/2020 10:45,30,6,7
+519,1/5/2020,Krishna,Andhra Pradesh,1/5/2020 10:45,76,68,2
+520,5/5/2020,Nellore,Andhra Pradesh,5/5/2020 10:45,67,0,1
+521,6/5/2020,Prakasam,Andhra Pradesh,6/5/2020 10:45,43,7,5
+522,3/5/2020,Kurnool,Andhra Pradesh,3/5/2020 10:45,156,33,6
+523,5/5/2020,VIsakhapatnam,Andhra Pradesh,5/5/2020 10:45,20,0,6
+524,4/5/2020,West Godavari,Andhra Pradesh,4/5/2020 10:45,35,20,2
+525,6/5/2020,Anantapur,Andhra Pradesh,6/5/2020 10:45,24,40,3
+526,13/4/2020,Chitoor,Andhra Pradesh,13/4/2020 10:45,26,0,7
+527,29/4/2020,East Godavar,Andhra Pradesh,29/4/2020 10:45,15,14,10
+528,6/5/2020,Guntur,Andhra Pradesh,6/5/2020 10:45,120,35,6
+529,6/5/2020,Kadappa,Andhra Pradesh,6/5/2020 10:45,32,6,7
+530,6/5/2020,Krishna,Andhra Pradesh,6/5/2020 10:45,76,71,2
+531,7/5/2020,Nellore,Andhra Pradesh,7/5/2020 10:45,67,0,1
+532,6/5/2020,Prakasam,Andhra Pradesh,6/5/2020 10:45,43,7,5
+533,3/5/2020,Kurnool,Andhra Pradesh,3/5/2020 10:45,157,33,6
+534,5/5/2020,VIsakhapatnam,Andhra Pradesh,5/5/2020 10:45,20,0,6
+535,4/5/2020,West Godavari,Andhra Pradesh,4/5/2020 10:45,35,20,2
+536,8/5/2020,Anantapur,Andhra Pradesh,8/5/2020 10:45,26,40,5
+537,13/4/2020,Chitoor,Andhra Pradesh,13/4/2020 10:45,27,0,7
+538,29/4/2020,East Godavar,Andhra Pradesh,29/4/2020 10:45,15,14,10
+539,8/5/2020,Guntur,Andhra Pradesh,8/5/2020 10:45,124,37,6
+540,6/5/2020,Kadappa,Andhra Pradesh,6/5/2020 10:45,33,8,7
+541,7/5/2020,Krishna,Andhra Pradesh,7/5/2020 10:45,76,71,2
+542,7/5/2020,Nellore,Andhra Pradesh,7/5/2020 10:45,67,0,1
+543,6/5/2020,Prakasam,Andhra Pradesh,6/5/2020 10:45,43,7,5
+544,3/5/2020,Kurnool,Andhra Pradesh,3/5/2020 10:45,158,33,6
+545,5/5/2020,VIsakhapatnam,Andhra Pradesh,5/5/2020 10:45,20,0,6
+546,8/5/2020,West Godavari,Andhra Pradesh,8/5/2020 10:45,35,20,2
+547,8/5/2020,Anantapur,Andhra Pradesh,8/5/2020 10:45,28,40,5
+548,13/4/2020,Chitoor,Andhra Pradesh,13/4/2020 10:45,27,0,9
+549,29/4/2020,East Godavar,Andhra Pradesh,29/4/2020 10:45,20,15,10
+550,8/5/2020,Guntur,Andhra Pradesh,8/5/2020 10:45,127,37,6
+551,6/5/2020,Kadappa,Andhra Pradesh,6/5/2020 10:45,33,8,7
+552,7/5/2020,Krishna,Andhra Pradesh,7/5/2020 10:45,76,71,2
+553,7/5/2020,Nellore,Andhra Pradesh,7/5/2020 10:45,67,0,1
+554,8/5/2020,Prakasam,Andhra Pradesh,8/5/2020 10:45,43,7,5
+555,9/5/2020,Kurnool,Andhra Pradesh,9/5/2020 10:45,158,33,7
+556,9/5/2020,VIsakhapatnam,Andhra Pradesh,9/5/2020 10:45,20,0,6
+557,3/5/2020,West Godavari,Andhra Pradesh,3/5/2020 10:45,35,22,2
+558,8/5/2020,Anantapur,Andhra Pradesh,8/5/2020 10:45,28,40,5
+559,9/5/2020,Chitoor,Andhra Pradesh,9/5/2020 10:45,28,0,9
+560,13/4/2020,East Godavar,Andhra Pradesh,13/4/2020 10:45,20,16,10
+561,29/4/2020,Guntur,Andhra Pradesh,29/4/2020 10:45,127,37,6
+562,9/5/2020,Kadappa,Andhra Pradesh,9/5/2020 10:45,37,8,7
+563,9/5/2020,Krishna,Andhra Pradesh,9/5/2020 10:45,76,71,2
+564,10/5/2020,Nellore,Andhra Pradesh,10/5/2020 10:45,67,0,1
+565,7/5/2020,Prakasam,Andhra Pradesh,7/5/2020 10:45,43,7,5
+566,9/5/2020,Kurnool,Andhra Pradesh,9/5/2020 10:45,158,33,7
+567,8/5/2020,VIsakhapatnam,Andhra Pradesh,8/5/2020 10:45,20,0,6
+568,9/5/2020,West Godavari,Andhra Pradesh,9/5/2020 10:45,35,22,2
+569,11/5/2020,Anantapur,Andhra Pradesh,11/5/2020 10:45,29,42,5
+570,13/4/2020,Chitoor,Andhra Pradesh,13/4/2020 10:45,28,0,9
+571,29/4/2020,East Godavar,Andhra Pradesh,29/4/2020 10:45,24,16,11
+572,9/5/2020,Guntur,Andhra Pradesh,9/5/2020 10:45,128,38,6
+573,10/5/2020,Kadappa,Andhra Pradesh,10/5/2020 10:45,37,8,7
+574,10/5/2020,Krishna,Andhra Pradesh,10/5/2020 10:45,76,71,2
+575,10/5/2020,Nellore,Andhra Pradesh,10/5/2020 10:45,67,0,1
+576,9/5/2020,Prakasam,Andhra Pradesh,9/5/2020 10:45,44,7,6
+577,11/5/2020,Kurnool,Andhra Pradesh,11/5/2020 10:45,158,33,7
+578,10/5/2020,VIsakhapatnam,Andhra Pradesh,10/5/2020 10:45,20,0,6
+579,9/5/2020,West Godavari,Andhra Pradesh,9/5/2020 10:45,35,22,2
+580,24/4/2020,Alappuzha,Kerala,24/4/2020 10:45,1,0,0
+581,24/4/2020,Cannanore(Kannur),Kerala,24/4/2020 10:45,66,1,0
+582,23/4/2020,Ernakulam,Kerala,23/4/2020 10:45,13,0,0
+583,22/4/2020,Idukki,Kerala,22/4/2020 10:45,7,0,0
+584,24/4/2020,Kasaragode,Kerala,24/4/2020 10:45,154,0,0
+585,22/4/2020,Kottayam,Kerala,22/4/2020 10:45,2,0,0
+586,24/4/2020,Kozhicode,Kerala,24/4/2020 10:45,10,0,0
+587,23/4/2020,Palakkad,Kerala,23/4/2020 10:45,6,0,0
+588,23/4/2020,Pathanamthitta,Kerala,23/4/2020 10:45,14,0,0
+589,20/4/2020,Wyanad,Kerala,23/4/2020 10:45,3,0,0
+590,22/4/2020,Thiruvananthapuram,Kerala,22/4/2020 10:45,12,0,0
+591,20/4/2020,Mallapuram,Kerala,20/4/2020 10:45,9,0,0
+592,20/4/2020,Thrissur,Kerala,20/4/2020 10:46,8,0,0
+593,20/4/2020,Kollam,Kerala,20/4/2020 10:47,7,0,0
+594,20/4/2020,Malappuram,Kerala,20/4/2020 10:48,9,0,0
+595,25/4/2020,Alappuzha,Kerala,25/4/2020 10:45,3,0,0
+596,25/4/2020,Cannanore(Kannur),Kerala,25/4/2020 10:45,71,1,0
+597,24/4/2020,Ernakulam,Kerala,24/4/2020 10:45,15,0,0
+598,23/4/2020,Idukki,Kerala,23/4/2020 10:45,7,0,0
+599,25/4/2020,Kasaragode,Kerala,25/4/2020 10:45,154,0,0
+600,23/4/2020,Kottayam,Kerala,23/4/2020 10:45,2,0,0
+601,25/4/2020,Kozhicode,Kerala,25/4/2020 10:45,10,0,0
+602,24/4/2020,Palakkad,Kerala,24/4/2020 10:45,6,0,0
+603,24/4/2020,Pathanamthitta,Kerala,24/4/2020 10:45,14,0,0
+604,21/4/2020,Wyanad,Kerala,24/4/2020 10:45,3,0,0
+605,23/4/2020,Thiruvananthapuram,Kerala,23/4/2020 10:45,12,0,0
+606,21/4/2020,Mallapuram,Kerala,21/4/2020 10:45,9,0,0
+607,21/4/2020,Thrissur,Kerala,21/4/2020 10:46,8,0,0
+608,21/4/2020,Kollam,Kerala,21/4/2020 10:47,7,0,0
+609,21/4/2020,Malappuram,Kerala,21/4/2020 10:48,10,0,0
+610,26/4/2020,Alappuzha,Kerala,26/4/2020 10:45,3,0,0
+611,26/4/2020,Cannanore(Kannur),Kerala,26/4/2020 10:45,76,1,0
+612,25/4/2020,Ernakulam,Kerala,25/4/2020 10:45,15,0,0
+613,24/4/2020,Idukki,Kerala,24/4/2020 10:45,7,0,0
+614,26/4/2020,Kasaragode,Kerala,26/4/2020 10:45,154,0,0
+615,24/4/2020,Kottayam,Kerala,24/4/2020 10:45,2,0,0
+616,26/4/2020,Kozhicode,Kerala,26/4/2020 10:45,10,0,0
+617,25/4/2020,Palakkad,Kerala,25/4/2020 10:45,6,0,0
+618,25/4/2020,Pathanamthitta,Kerala,25/4/2020 10:45,14,0,0
+619,22/4/2020,Wyanad,Kerala,22/4/2020 10:45,3,0,0
+620,24/4/2020,Thiruvananthapuram,Kerala,24/4/2020 10:45,12,0,0
+621,22/4/2020,Mallapuram,Kerala,22/4/2020 10:45,9,0,0
+622,22/4/2020,Thrissur,Kerala,22/4/2020 10:45,8,0,0
+623,22/4/2020,Kollam,Kerala,22/4/2020 10:45,7,0,0
+624,22/4/2020,Malappuram,Kerala,22/4/2020 10:45,10,0,0
+625,27/4/2020,Alappuzha,Kerala,27/4/2020 10:45,3,1,0
+626,27/4/2020,Cannanore(Kannur),Kerala,27/4/2020 10:45,78,12,0
+627,26/4/2020,Ernakulam,Kerala,26/4/2020 10:45,15,0,0
+628,25/4/2020,Idukki,Kerala,25/4/2020 10:45,7,0,0
+629,27/4/2020,Kasaragode,Kerala,27/4/2020 10:45,157,12,0
+630,25/4/2020,Kottayam,Kerala,25/4/2020 10:45,3,0,0
+631,27/4/2020,Kozhicode,Kerala,27/4/2020 10:45,14,0,0
+632,26/4/2020,Palakkad,Kerala,26/4/2020 10:45,6,0,0
+633,26/4/2020,Pathanamthitta,Kerala,26/4/2020 10:45,14,0,0
+634,23/4/2020,Wyanad,Kerala,23/4/2020 10:45,3,0,0
+635,25/4/2020,Thiruvananthapuram,Kerala,25/4/2020 10:45,12,0,0
+636,23/4/2020,Mallapuram,Kerala,23/4/2020 10:45,9,0,0
+637,23/4/2020,Thrissur,Kerala,23/4/2020 10:45,8,0,0
+638,23/4/2020,Kollam,Kerala,23/4/2020 10:45,7,0,0
+639,23/4/2020,Malappuram,Kerala,23/4/2020 10:45,10,0,0
+640,28/4/2020,Alappuzha,Kerala,28/4/2020 10:45,3,1,0
+641,28/4/2020,Cannanore(Kannur),Kerala,28/4/2020 10:45,80,25,0
+642,27/4/2020,Ernakulam,Kerala,27/4/2020 10:45,18,5,0
+643,26/4/2020,Idukki,Kerala,26/4/2020 10:45,7,0,0
+644,28/4/2020,Kasaragode,Kerala,28/4/2020 10:45,157,25,0
+645,26/4/2020,Kottayam,Kerala,26/4/2020 10:45,3,0,0
+646,28/4/2020,Kozhicode,Kerala,28/4/2020 10:45,14,0,0
+647,27/4/2020,Palakkad,Kerala,27/4/2020 10:45,6,0,0
+648,27/4/2020,Pathanamthitta,Kerala,27/4/2020 10:45,14,0,0
+649,24/4/2020,Wyanad,Kerala,24/4/2020 10:45,3,0,0
+650,26/4/2020,Thiruvananthapuram,Kerala,26/4/2020 10:45,12,0,0
+651,24/4/2020,Mallapuram,Kerala,24/4/2020 10:45,9,5,0
+652,24/4/2020,Thrissur,Kerala,24/4/2020 10:45,8,0,0
+653,24/4/2020,Kollam,Kerala,24/4/2020 10:45,7,0,0
+654,24/4/2020,Malappuram,Kerala,24/4/2020 10:45,10,0,0
+655,29/4/2020,Alappuzha,Kerala,29/4/2020 10:45,3,1,0
+656,29/4/2020,Cannanore(Kannur),Kerala,29/4/2020 10:45,80,36,0
+657,28/4/2020,Ernakulam,Kerala,28/4/2020 10:45,18,9,0
+658,27/4/2020,Idukki,Kerala,27/4/2020 10:45,9,0,0
+659,29/4/2020,Kasaragode,Kerala,29/4/2020 10:45,160,26,0
+660,27/4/2020,Kottayam,Kerala,27/4/2020 10:45,3,0,0
+661,29/4/2020,Kozhicode,Kerala,29/4/2020 10:45,14,5,0
+662,28/4/2020,Palakkad,Kerala,28/4/2020 10:45,6,2,0
+663,28/4/2020,Pathanamthitta,Kerala,28/4/2020 10:45,14,0,0
+664,25/4/2020,Wyanad,Kerala,25/4/2020 10:45,3,0,0
+665,27/4/2020,Thiruvananthapuram,Kerala,27/4/2020 10:45,12,6,0
+666,25/4/2020,Mallapuram,Kerala,25/4/2020 10:45,9,5,0
+667,25/4/2020,Thrissur,Kerala,25/4/2020 10:45,8,5,0
+668,25/4/2020,Kollam,Kerala,25/4/2020 10:45,7,0,0
+669,25/4/2020,Malappuram,Kerala,25/4/2020 10:45,10,5,0
+670,30/4/2020,Alappuzha,Kerala,30/4/2020 10:45,3,1,0
+671,30/4/2020,Cannanore(Kannur),Kerala,30/4/2020 10:45,82,37,0
+672,29/4/2020,Ernakulam,Kerala,29/4/2020 10:45,20,10,0
+673,28/4/2020,Idukki,Kerala,28/4/2020 10:45,9,0,0
+674,30/4/2020,Kasaragode,Kerala,30/4/2020 10:45,162,35,0
+675,28/4/2020,Kottayam,Kerala,28/4/2020 10:45,3,0,0
+676,30/4/2020,Kozhicode,Kerala,30/4/2020 10:45,14,6,0
+677,29/4/2020,Palakkad,Kerala,29/4/2020 10:45,6,0,0
+678,29/4/2020,Pathanamthitta,Kerala,29/4/2020 10:45,14,3,0
+679,26/4/2020,Wyanad,Kerala,26/4/2020 10:45,3,0,0
+680,28/4/2020,Thiruvananthapuram,Kerala,28/4/2020 10:45,12,6,0
+681,26/4/2020,Mallapuram,Kerala,26/4/2020 10:45,9,5,0
+682,26/4/2020,Thrissur,Kerala,26/4/2020 10:45,8,6,0
+683,26/4/2020,Kollam,Kerala,26/4/2020 10:45,7,3,0
+684,26/4/2020,Malappuram,Kerala,26/4/2020 10:45,10,6,0
+685,1/5/2020,Alappuzha,Kerala,1/5/2020 10:45,3,3,0
+686,1/5/2020,Cannanore(Kannur),Kerala,1/5/2020 10:45,82,38,0
+687,30/4/2020,Ernakulam,Kerala,30/4/2020 10:45,20,10,0
+688,29/4/2020,Idukki,Kerala,29/4/2020 10:45,9,0,0
+689,1/5/2020,Kasaragode,Kerala,1/5/2020 10:45,162,39,0
+690,29/4/2020,Kottayam,Kerala,29/4/2020 10:45,3,0,0
+691,1/5/2020,Kozhicode,Kerala,1/5/2020 10:45,15,7,0
+692,30/4/2020,Palakkad,Kerala,30/4/2020 10:45,6,0,0
+693,30/4/2020,Pathanamthitta,Kerala,30/4/2020 10:45,14,3,0
+694,27/4/2020,Wyanad,Kerala,27/4/2020 10:45,3,0,0
+695,29/4/2020,Thiruvananthapuram,Kerala,29/4/2020 10:45,12,6,0
+696,27/4/2020,Mallapuram,Kerala,27/4/2020 10:45,9,5,0
+697,27/4/2020,Thrissur,Kerala,27/4/2020 10:45,8,7,0
+698,27/4/2020,Kollam,Kerala,27/4/2020 10:45,8,3,0
+699,27/4/2020,Malappuram,Kerala,27/4/2020 10:45,15,7,0
+700,2/5/2020,Alappuzha,Kerala,2/5/2020 10:45,3,3,0
+701,2/5/2020,Cannanore(Kannur),Kerala,2/5/2020 10:45,86,45,0
+702,1/5/2020,Ernakulam,Kerala,1/5/2020 10:45,21,10,0
+703,30/4/2020,Idukki,Kerala,30/4/2020 10:45,9,0,0
+704,2/5/2020,Kasaragode,Kerala,2/5/2020 10:45,162,40,0
+705,30/4/2020,Kottayam,Kerala,30/4/2020 10:45,3,0,0
+706,2/5/2020,Kozhicode,Kerala,2/5/2020 10:45,15,7,0
+707,1/5/2020,Palakkad,Kerala,1/5/2020 10:45,6,0,0
+708,1/5/2020,Pathanamthitta,Kerala,1/5/2020 10:45,14,3,0
+709,28/4/2020,Wyanad,Kerala,28/4/2020 10:45,3,0,0
+710,30/4/2020,Thiruvananthapuram,Kerala,30/4/2020 10:45,12,7,0
+711,28/4/2020,Mallapuram,Kerala,28/4/2020 10:45,9,6,0
+712,28/4/2020,Thrissur,Kerala,28/4/2020 10:45,8,7,0
+713,28/4/2020,Kollam,Kerala,28/4/2020 10:45,8,3,0
+714,28/4/2020,Malappuram,Kerala,28/4/2020 10:45,15,7,0
+715,3/5/2020,Alappuzha,Kerala,3/5/2020 10:45,4,3,0
+716,3/5/2020,Cannanore(Kannur),Kerala,3/5/2020 10:45,86,46,0
+717,2/5/2020,Ernakulam,Kerala,2/5/2020 10:45,21,10,0
+718,1/5/2020,Idukki,Kerala,1/5/2020 10:45,9,2,0
+719,3/5/2020,Kasaragode,Kerala,3/5/2020 10:45,162,41,1
+720,1/5/2020,Kottayam,Kerala,1/5/2020 10:45,3,0,0
+721,3/5/2020,Kozhicode,Kerala,3/5/2020 10:45,15,7,0
+722,2/5/2020,Palakkad,Kerala,2/5/2020 10:45,6,1,0
+723,2/5/2020,Pathanamthitta,Kerala,2/5/2020 10:45,16,3,0
+724,29/4/2020,Wyanad,Kerala,29/4/2020 10:45,3,0,0
+725,1/5/2020,Thiruvananthapuram,Kerala,1/5/2020 10:45,13,7,0
+726,29/4/2020,Mallapuram,Kerala,29/4/2020 10:45,12,6,0
+727,29/4/2020,Thrissur,Kerala,29/4/2020 10:45,11,7,0
+728,29/4/2020,Kollam,Kerala,29/4/2020 10:45,8,3,0
+729,29/4/2020,Malappuram,Kerala,29/4/2020 10:45,15,7,0
+730,4/5/2020,Alappuzha,Kerala,4/5/2020 10:45,4,3,0
+731,4/5/2020,Cannanore(Kannur),Kerala,4/5/2020 10:45,86,47,1
+732,3/5/2020,Ernakulam,Kerala,3/5/2020 10:45,21,10,0
+733,2/5/2020,Idukki,Kerala,2/5/2020 10:45,9,2,0
+734,4/5/2020,Kasaragode,Kerala,4/5/2020 10:45,162,48,1
+735,2/5/2020,Kottayam,Kerala,2/5/2020 10:45,3,0,0
+736,4/5/2020,Kozhicode,Kerala,4/5/2020 10:45,18,7,0
+737,3/5/2020,Palakkad,Kerala,3/5/2020 10:45,6,1,0
+738,3/5/2020,Pathanamthitta,Kerala,3/5/2020 10:45,16,3,0
+739,30/4/2020,Wyanad,Kerala,30/4/2020 10:45,3,1,0
+740,2/5/2020,Thiruvananthapuram,Kerala,2/5/2020 10:45,13,7,0
+741,30/4/2020,Mallapuram,Kerala,30/4/2020 10:45,13,6,0
+742,30/4/2020,Thrissur,Kerala,30/4/2020 10:45,11,7,0
+743,30/4/2020,Kollam,Kerala,30/4/2020 10:45,8,3,0
+744,30/4/2020,Malappuram,Kerala,30/4/2020 10:45,15,7,0
+745,5/5/2020,Alappuzha,Kerala,5/5/2020 10:45,4,3,0
+746,5/5/2020,Cannanore(Kannur),Kerala,5/5/2020 10:45,86,48,1
+747,4/5/2020,Ernakulam,Kerala,4/5/2020 10:45,21,10,0
+748,3/5/2020,Idukki,Kerala,3/5/2020 10:45,9,2,0
+749,5/5/2020,Kasaragode,Kerala,5/5/2020 10:45,162,59,1
+750,3/5/2020,Kottayam,Kerala,3/5/2020 10:45,3,0,0
+751,5/5/2020,Kozhicode,Kerala,5/5/2020 10:45,18,8,0
+752,4/5/2020,Palakkad,Kerala,4/5/2020 10:45,6,1,0
+753,4/5/2020,Pathanamthitta,Kerala,4/5/2020 10:45,16,3,0
+754,1/5/2020,Wyanad,Kerala,1/5/2020 10:45,3,1,0
+755,3/5/2020,Thiruvananthapuram,Kerala,3/5/2020 10:45,13,8,0
+756,1/5/2020,Mallapuram,Kerala,1/5/2020 10:45,15,6,0
+757,1/5/2020,Thrissur,Kerala,1/5/2020 10:45,11,8,0
+758,1/5/2020,Kollam,Kerala,1/5/2020 10:45,8,3,0
+759,1/5/2020,Malappuram,Kerala,1/5/2020 10:45,15,8,0
+760,6/5/2020,Alappuzha,Kerala,6/5/2020 10:45,4,4,0
+761,6/5/2020,Cannanore(Kannur),Kerala,6/5/2020 10:45,86,49,1
+762,5/5/2020,Ernakulam,Kerala,5/5/2020 10:45,21,11,0
+763,4/5/2020,Idukki,Kerala,4/5/2020 10:45,9,5,0
+764,6/5/2020,Kasaragode,Kerala,6/5/2020 10:45,167,68,1
+765,4/5/2020,Kottayam,Kerala,4/5/2020 10:45,3,0,0
+766,6/5/2020,Kozhicode,Kerala,6/5/2020 10:45,18,8,0
+767,5/5/2020,Palakkad,Kerala,5/5/2020 10:45,6,1,0
+768,5/5/2020,Pathanamthitta,Kerala,5/5/2020 10:45,16,3,0
+769,2/5/2020,Wyanad,Kerala,2/5/2020 10:45,3,1,0
+770,4/5/2020,Thiruvananthapuram,Kerala,4/5/2020 10:45,13,9,0
+771,2/5/2020,Mallapuram,Kerala,2/5/2020 10:45,15,6,0
+772,2/5/2020,Thrissur,Kerala,2/5/2020 10:45,11,8,0
+773,2/5/2020,Kollam,Kerala,2/5/2020 10:45,8,4,0
+774,2/5/2020,Malappuram,Kerala,2/5/2020 10:45,19,8,0
+775,7/5/2020,Alappuzha,Kerala,7/5/2020 10:45,4,4,0
+776,7/5/2020,Cannanore(Kannur),Kerala,7/5/2020 10:45,88,50,1
+777,6/5/2020,Ernakulam,Kerala,6/5/2020 10:45,21,11,0
+778,5/5/2020,Idukki,Kerala,5/5/2020 10:45,9,5,0
+779,7/5/2020,Kasaragode,Kerala,7/5/2020 10:45,167,79,2
+780,5/5/2020,Kottayam,Kerala,5/5/2020 10:45,3,0,0
+781,7/5/2020,Kozhicode,Kerala,7/5/2020 10:45,18,9,0
+782,6/5/2020,Palakkad,Kerala,6/5/20202 10:45,6,1,0
+783,6/5/2020,Pathanamthitta,Kerala,6/5/2020 10:45,16,5,0
+784,3/5/2020,Wyanad,Kerala,3/5/2020 10:45,3,1,0
+785,5/5/2020,Thiruvananthapuram,Kerala,5/5/2020 10:45,13,10,0
+786,3/5/2020,Mallapuram,Kerala,3/5/2020 10:45,15,6,0
+787,3/5/2020,Thrissur,Kerala,3/5/2020 10:45,11,9,0
+788,3/5/2020,Kollam,Kerala,3/5/2020 10:45,9,4,0
+789,3/5/2020,Malappuram,Kerala,3/5/2020 10:45,19,9,0
+790,8/5/2020,Alappuzha,Kerala,8/5/2020 10:45,4,5,0
+791,8/5/2020,Cannanore(Kannur),Kerala,8/5/2020 10:45,90,50,1
+792,7/5/2020,Ernakulam,Kerala,7/5/2020 10:45,23,11,0
+793,6/5/2020,Idukki,Kerala,6/5/2020 10:45,10,5,0
+794,8/5/2020,Kasaragode,Kerala,8/5/2020 10:45,170,85,2
+795,6/5/2020,Kottayam,Kerala,6/5/2020 10:45,3,0,0
+796,8/5/2020,Kozhicode,Kerala,8/5/2020 10:45,18,9,0
+797,7/5/2020,Palakkad,Kerala,7/5/2020 10:45,8,1,0
+798,7/5/2020,Pathanamthitta,Kerala,7/5/2020 10:45,16,5,0
+799,4/5/2020,Wyanad,Kerala,4/5/2020 10:45,3,1,0
+800,6/5/2020,Thiruvananthapuram,Kerala,6/5/2020 10:45,14,10,0
+801,4/5/2020,Mallapuram,Kerala,4/5/2020 10:45,17,7,0
+802,4/5/2020,Thrissur,Kerala,4/5/2020 10:45,13,9,0
+803,4/5/2020,Kollam,Kerala,4/5/2020 10:45,9,4,0
+804,4/5/2020,Malappuram,Kerala,4/5/2020 10:45,19,9,0
+805,9/5/2020,Alappuzha,Kerala,9/5/2020 10:45,5,6,0
+806,9/5/2020,Cannanore(Kannur),Kerala,9/5/2020 10:45,92,50,1
+807,8/5/2020,Ernakulam,Kerala,8/5/2020 10:45,23,11,0
+808,7/5/2020,Idukki,Kerala,7/5/2020 10:45,10,5,0
+809,9/5/2020,Kasaragode,Kerala,9/5/2020 10:45,170,95,3
+810,7/5/2020,Kottayam,Kerala,7/5/2020 10:45,3,0,0
+811,9/5/2020,Kozhicode,Kerala,9/5/2020 10:45,18,10,0
+812,8/5/2020,Palakkad,Kerala,8/5/2020 10:45,8,2,0
+813,8/5/2020,Pathanamthitta,Kerala,8/5/2020 10:45,17,6,0
+814,5/5/2020,Wyanad,Kerala,5/5/2020 10:45,3,1,0
+815,7/5/2020,Thiruvananthapuram,Kerala,7/5/2020 10:45,14,12,0
+816,5/5/2020,Mallapuram,Kerala,5/5/2020 10:45,17,7,0
+817,5/5/2020,Thrissur,Kerala,5/5/2020 10:45,13,10,0
+818,5/5/2020,Kollam,Kerala,5/5/2020 10:45,9,5,0
+819,5/5/2020,Malappuram,Kerala,5/5/2020 10:45,20,10,0
+820,10/5/2020,Alappuzha,Kerala,10/5/2020 10:45,5,6,0
+821,10/5/2020,Cannanore(Kannur),Kerala,10/5/2020 10:45,92,50,1
+822,9/5/2020,Ernakulam,Kerala,9/5/2020 10:45,24,11,0
+823,8/5/2020,Idukki,Kerala,8/5/2020 10:45,10,5,0
+824,10/5/2020,Kasaragode,Kerala,10/5/2020 10:45,170,110,3
+825,8/5/2020,Kottayam,Kerala,8/5/2020 10:45,3,0,0
+826,10/5/2020,Kozhicode,Kerala,10/5/2020 10:45,20,10,0
+827,9/5/2020,Palakkad,Kerala,9/5/2020 10:45,8,2,0
+828,9/5/2020,Pathanamthitta,Kerala,9/5/2020 10:45,17,6,0
+829,6/5/2020,Wyanad,Kerala,6/5/2020 10:45,3,1,0
+830,8/5/2020,Thiruvananthapuram,Kerala,8/5/2020 10:45,14,12,0
+831,6/5/2020,Mallapuram,Kerala,6/5/2020 10:45,17,7,0
+832,6/5/2020,Thrissur,Kerala,6/5/2020 10:45,13,10,0
+833,6/5/2020,Kollam,Kerala,6/5/2020 10:45,9,5,0
+834,6/5/2020,Malappuram,Kerala,6/5/2020 10:45,20,10,0
+835,24/4/2020,Ariyalur,Tamil Nadu,24/4/2020 10:45,0,0,0
+836,24/4/2020,Chengalpattu,Tamil Nadu,24/4/2020 10:45,0,0,0
+837,23/4/2020,Cuddalore,Tamil Nadu,23/4/2020 10:45,0,0,0
+838,22/4/2020,Dindigul,Tamil Nadu,22/4/2020 10:45,0,0,0
+839,24/4/2020,Chennai,Tamil Nadu,24/4/2020 10:45,2,0,0
+840,22/4/2020,Coimbatore,Tamil Nadu,22/4/2020 10:45,0,0,0
+841,24/4/2020,Dindugal,Tamil Nadu,24/4/2020 10:45,0,0,0
+842,23/4/2020,Erode,Tamil Nadu,23/4/2020 10:45,0,0,0
+843,23/4/2020,Kancheepuram,Tamil Nadu,23/4/2020 10:45,0,0,0
+844,20/4/2020,Kalllakurichi,Tamil Nadu,23/4/2020 10:45,0,0,0
+845,22/4/2020,Kanyakumari,Tamil Nadu,22/4/2020 10:45,0,0,0
+846,20/4/2020,Karur,Tamil Nadu,20/4/2020 10:45,0,0,0
+847,20/4/2020,Madurai,Tamil Nadu,20/4/2020 10:46,0,0,0
+848,20/4/2020,Nagapattinam,Tamil Nadu,20/4/2020 10:47,0,0,0
+849,20/4/2020,Nagerkoil,Tamil Nadu,20/4/2020 10:48,0,0,0
+850,20/4/2020,Namakkal,Tamil Nadu,20/4/2020 10:49,0,0,0
+851,20/4/2020,Perambalur,Tamil Nadu,20/4/2020 10:50,0,0,0
+852,23/4/2020,Pudukottai,Tamil Nadu,23/4/2020 10:45,0,0,0
+853,23/4/2020,Ramanathapuram,Tamil Nadu,23/4/2020 10:45,0,0,0
+854,23/4/2020,Sivagangai,Tamil Nadu,23/4/2020 10:45,0,0,0
+855,23/4/2020,Ranipet,Tamil Nadu,23/4/2020 10:45,0,0,0
+856,16/4/2020,Salem,Tamil Nadu,16/4/2020 10:45,0,0,0
+857,16/4/2020,Thanjavur,Tamil Nadu,16/4/2020 10:45,0,0,0
+858,16/4/2020,Tenkasi,Tamil Nadu,16/4/2020 10:45,0,0,0
+859,16/4/2020,Theni,Tamil Nadu,16/4/2020 10:45,0,0,0
+860,14/4/2020,Tiruvannamalai,Tamil Nadu,14/4/2020 10:45,0,0,0
+861,14/4/2020,Thiruvallur,Tamil Nadu,14/4/2020 10:45,0,0,0
+862,14/4/2020,Thiruvarur,Tamil Nadu,14/4/2020 10:45,0,0,0
+863,13/4/2020,Thoothukudi,Tamil Nadu,13/4/2020 10:45,0,0,0
+864,13/4/2020,Tirunelveli,Tamil Nadu,13/4/2020 10:45,0,0,0
+865,13/4/2020,Tirupattur,Tamil Nadu,13/4/2020 10:45,0,0,0
+866,13/4/2020,Tiruppur,Tamil Nadu,13/4/2020 10:45,1,0,0
+867,13/4/2020,Tiruchirapalli,Tamil Nadu,13/4/2020 10:45,0,0,0
+868,29/3/2020,Vellore,Tamil Nadu,29/3/2020 10:45,0,0,0
+869,28/3/2020,Villupuram,Tamil Nadu,28/3/2020 10:45,0,0,0
+870,23/3/2020,Virudhunagar,Tamil Nadu,23/3/2020 10:45,0,0,0
+871,18/3/2020,Udagamandalam,Tamil Nadu,18/3/2020 10:45,0,0,0
+872,25/4/2020,Ariyalur,Tamil Nadu,25/4/2020 10:45,0,1,0
+873,25/4/2020,Chengalpattu,Tamil Nadu,25/4/2020 10:45,0,0,0
+874,24/4/2020,Cuddalore,Tamil Nadu,24/4/2020 10:45,1,0,0
+875,23/4/2020,Dindigul,Tamil Nadu,23/4/2020 10:45,6,0,0
+876,25/4/2020,Chennai,Tamil Nadu,25/4/2020 10:45,10,0,0
+877,23/4/2020,Coimbatore,Tamil Nadu,23/4/2020 10:45,10,0,0
+878,25/4/2020,Dindugal,Tamil Nadu,25/4/2020 10:45,15,0,0
+879,24/4/2020,Erode,Tamil Nadu,24/4/2020 10:45,10,0,0
+880,24/4/2020,Kancheepuram,Tamil Nadu,24/4/2020 10:45,2,0,0
+881,21/4/2020,Kalllakurichi,Tamil Nadu,24/4/2020 10:45,0,0,0
+882,23/4/2020,Kanyakumari,Tamil Nadu,23/4/2020 10:45,2,0,0
+883,21/4/2020,Karur,Tamil Nadu,21/4/2020 10:45,11,0,0
+884,21/4/2020,Madurai,Tamil Nadu,21/4/2020 10:46,21,0,0
+885,21/4/2020,Nagapattinam,Tamil Nadu,21/4/2020 10:47,23,0,0
+886,21/4/2020,Nagerkoil,Tamil Nadu,21/4/2020 10:48,12,0,0
+887,21/4/2020,Namakkal,Tamil Nadu,21/4/2020 10:49,25,0,0
+888,21/4/2020,Perambalur,Tamil Nadu,21/4/2020 10:50,2,0,0
+889,24/4/2020,Pudukottai,Tamil Nadu,24/4/2020 10:45,0,0,0
+890,24/4/2020,Ramanathapuram,Tamil Nadu,24/4/2020 10:46,0,0,0
+891,24/4/2020,Sivagangai,Tamil Nadu,24/4/2020 10:47,0,0,0
+892,24/4/2020,Ranipet,Tamil Nadu,24/4/2020 10:48,5,0,0
+893,17/4/2020,Salem,Tamil Nadu,17/4/2020 10:45,12,0,0
+894,17/4/2020,Thanjavur,Tamil Nadu,16/4/2020 10:45,0,0,0
+895,17/4/2020,Tenkasi,Tamil Nadu,16/4/2020 10:46,0,0,0
+896,17/4/2020,Theni,Tamil Nadu,16/4/2020 10:47,0,0,0
+897,15/4/2020,Tiruvannamalai,Tamil Nadu,15/4/2020 10:45,0,0,0
+898,15/4/2020,Thiruvallur,Tamil Nadu,15/4/2020 10:46,0,0,0
+899,15/4/2020,Thiruvarur,Tamil Nadu,15/4/2020 10:47,0,0,0
+900,14/4/2020,Thoothukudi,Tamil Nadu,14/4/2020 10:45,0,0,0
+901,14/4/2020,Tirunelveli,Tamil Nadu,14/4/2020 10:46,0,0,0
+902,14/4/2020,Tirupattur,Tamil Nadu,14/4/2020 10:47,0,0,0
+903,14/4/2020,Tiruppur,Tamil Nadu,14/4/2020 10:48,2,0,0
+904,14/4/2020,Tiruchirapalli,Tamil Nadu,14/4/2020 10:49,1,0,0
+905,30/3/2020,Vellore,Tamil Nadu,30/3/2020 10:45,2,0,0
+906,29/3/2020,Villupuram,Tamil Nadu,29/3/2020 10:45,2,0,0
+907,24/3/2020,Virudhunagar,Tamil Nadu,24/3/2020 10:45,2,0,0
+908,19/3/2020,Udagamandalam,Tamil Nadu,19/3/2020 10:45,1,0,0
+909,26/4/2020,Ariyalur,Tamil Nadu,26/4/2020 10:45,0,2,0
+910,26/4/2020,Chengalpattu,Tamil Nadu,26/4/2020 10:45,5,1,0
+911,25/4/2020,Cuddalore,Tamil Nadu,25/4/2020 10:45,2,0,0
+912,24/4/2020,Dindigul,Tamil Nadu,24/4/2020 10:45,7,0,0
+913,26/4/2020,Chennai,Tamil Nadu,26/4/2020 10:45,15,0,0
+914,24/4/2020,Coimbatore,Tamil Nadu,24/4/2020 10:45,15,0,0
+915,26/4/2020,Dindugal,Tamil Nadu,26/4/2020 10:45,23,0,0
+916,25/4/2020,Erode,Tamil Nadu,25/4/2020 10:45,12,0,0
+917,25/4/2020,Kancheepuram,Tamil Nadu,25/4/2020 10:45,3,0,0
+918,22/4/2020,Kalllakurichi,Tamil Nadu,22/4/2020 10:45,0,0,0
+919,24/4/2020,Kanyakumari,Tamil Nadu,24/4/2020 10:45,2,0,0
+920,22/4/2020,Karur,Tamil Nadu,22/4/2020 10:45,15,0,0
+921,22/4/2020,Madurai,Tamil Nadu,22/4/2020 10:45,25,0,0
+922,22/4/2020,Nagapattinam,Tamil Nadu,22/4/2020 10:45,24,0,0
+923,22/4/2020,Nagerkoil,Tamil Nadu,22/4/2020 10:45,12,0,0
+924,22/4/2020,Namakkal,Tamil Nadu,22/4/2020 10:45,26,0,0
+925,22/4/2020,Perambalur,Tamil Nadu,22/4/2020 10:45,2,0,0
+926,25/4/2020,Pudukottai,Tamil Nadu,25/4/2020 10:45,0,0,0
+927,25/4/2020,Ramanathapuram,Tamil Nadu,25/4/2020 10:45,0,0,0
+928,25/4/2020,Sivagangai,Tamil Nadu,25/4/2020 10:45,0,0,0
+929,25/4/2020,Ranipet,Tamil Nadu,25/4/2020 10:45,6,0,0
+930,18/4/2020,Salem,Tamil Nadu,18/4/2020 10:45,13,0,0
+931,18/4/2020,Thanjavur,Tamil Nadu,18/4/2020 10:45,5,0,0
+932,18/4/2020,Tenkasi,Tamil Nadu,18/4/2020 10:45,10,0,0
+933,18/4/2020,Theni,Tamil Nadu,18/4/2020 10:45,8,0,0
+934,16/4/2020,Tiruvannamalai,Tamil Nadu,16/4/2020 10:45,0,0,0
+935,16/4/2020,Thiruvallur,Tamil Nadu,16/4/2020 10:45,8,0,0
+936,16/4/2020,Thiruvarur,Tamil Nadu,16/4/2020 10:45,7,0,0
+937,15/4/2020,Thoothukudi,Tamil Nadu,15/4/2020 10:45,7,0,0
+938,15/4/2020,Tirunelveli,Tamil Nadu,15/4/2020 10:45,5,0,0
+939,15/4/2020,Tirupattur,Tamil Nadu,15/4/2020 10:45,6,0,0
+940,15/4/2020,Tiruppur,Tamil Nadu,15/4/2020 10:45,9,0,0
+941,15/4/2020,Tiruchirapalli,Tamil Nadu,15/4/2020 10:45,8,0,0
+942,31/3/2020,Vellore,Tamil Nadu,31/3/2020 10:45,4,0,0
+943,30/3/2020,Villupuram,Tamil Nadu,30/3/2020 10:45,3,0,0
+944,25/3/2020,Virudhunagar,Tamil Nadu,25/3/2020 10:45,3,0,0
+945,20/3/2020,Udagamandalam,Tamil Nadu,20/3/2020 10:45,2,0,0
+946,27/4/2020,Ariyalur,Tamil Nadu,27/4/2020 10:45,0,2,0
+947,27/4/2020,Chengalpattu,Tamil Nadu,27/4/2020 10:45,10,5,0
+948,26/4/2020,Cuddalore,Tamil Nadu,26/4/2020 10:45,6,0,0
+949,25/4/2020,Dindigul,Tamil Nadu,25/4/2020 10:45,9,0,0
+950,27/4/2020,Chennai,Tamil Nadu,27/4/2020 10:45,23,0,0
+951,25/4/2020,Coimbatore,Tamil Nadu,25/4/2020 10:45,16,0,0
+952,27/4/2020,Dindugal,Tamil Nadu,27/4/2020 10:45,25,0,0
+953,26/4/2020,Erode,Tamil Nadu,26/4/2020 10:45,15,0,0
+954,26/4/2020,Kancheepuram,Tamil Nadu,26/4/2020 10:45,3,0,0
+955,23/4/2020,Kalllakurichi,Tamil Nadu,23/4/2020 10:45,0,0,0
+956,25/4/2020,Kanyakumari,Tamil Nadu,25/4/2020 10:45,2,0,0
+957,23/4/2020,Karur,Tamil Nadu,23/4/2020 10:45,16,0,0
+958,23/4/2020,Madurai,Tamil Nadu,23/4/2020 10:45,26,0,0
+959,23/4/2020,Nagapattinam,Tamil Nadu,23/4/2020 10:45,25,0,0
+960,23/4/2020,Nagerkoil,Tamil Nadu,23/4/2020 10:45,12,0,0
+961,23/4/2020,Namakkal,Tamil Nadu,23/4/2020 10:45,27,0,0
+962,23/4/2020,Perambalur,Tamil Nadu,23/4/2020 10:45,2,0,0
+963,26/4/2020,Pudukottai,Tamil Nadu,26/4/2020 10:45,0,0,0
+964,26/4/2020,Ramanathapuram,Tamil Nadu,26/4/2020 10:45,0,0,0
+965,26/4/2020,Sivagangai,Tamil Nadu,26/4/2020 10:45,0,0,0
+966,26/4/2020,Ranipet,Tamil Nadu,26/4/2020 10:45,7,0,0
+967,19/4/2020,Salem,Tamil Nadu,19/4/2020 10:45,14,0,0
+968,19/4/2020,Thanjavur,Tamil Nadu,19/4/2020 10:45,6,0,0
+969,19/4/2020,Tenkasi,Tamil Nadu,19/4/2020 10:45,15,0,0
+970,19/4/2020,Theni,Tamil Nadu,19/4/2020 10:45,9,0,0
+971,17/4/2020,Tiruvannamalai,Tamil Nadu,17/4/2020 10:45,0,0,0
+972,17/4/2020,Thiruvallur,Tamil Nadu,17/4/2020 10:45,9,0,0
+973,17/4/2020,Thiruvarur,Tamil Nadu,17/4/2020 10:45,8,0,0
+974,16/4/2020,Thoothukudi,Tamil Nadu,16/4/2020 10:45,8,0,0
+975,16/4/2020,Tirunelveli,Tamil Nadu,16/4/2020 10:45,9,0,0
+976,16/4/2020,Tirupattur,Tamil Nadu,16/4/20202 10:45,7,0,0
+977,16/4/2020,Tiruppur,Tamil Nadu,16/4/2020 10:45,15,0,0
+978,16/4/2020,Tiruchirapalli,Tamil Nadu,16/4/2020 10:45,9,0,0
+979,1/4/2020,Vellore,Tamil Nadu,1/4/2020 10:45,5,0,0
+980,31/3/2020,Villupuram,Tamil Nadu,31/3/2020 10:45,6,0,0
+981,26/3/2020,Virudhunagar,Tamil Nadu,26/3/2020 10:45,5,0,0
+982,21/3/2020,Udagamandalam,Tamil Nadu,21/3/2020 10:45,2,0,0
+983,28/4/2020,Ariyalur,Tamil Nadu,28/4/2020 10:45,0,2,0
+984,28/4/2020,Chengalpattu,Tamil Nadu,28/4/2020 10:45,20,10,0
+985,27/4/2020,Cuddalore,Tamil Nadu,27/4/2020 10:45,7,2,0
+986,26/4/2020,Dindigul,Tamil Nadu,26/4/2020 10:45,20,5,0
+987,28/4/2020,Chennai,Tamil Nadu,28/4/2020 10:45,36,6,0
+988,26/4/2020,Coimbatore,Tamil Nadu,26/4/2020 10:45,35,5,0
+989,28/4/2020,Dindugal,Tamil Nadu,28/4/2020 10:45,26,3,0
+990,27/4/2020,Erode,Tamil Nadu,27/4/2020 10:45,30,3,0
+991,27/4/2020,Kancheepuram,Tamil Nadu,27/4/2020 10:45,5,2,0
+992,24/4/2020,Kalllakurichi,Tamil Nadu,24/4/2020 10:45,0,0,0
+993,26/4/2020,Kanyakumari,Tamil Nadu,26/4/2020 10:45,2,0,0
+994,24/4/2020,Karur,Tamil Nadu,24/4/2020 10:45,20,2,0
+995,24/4/2020,Madurai,Tamil Nadu,24/4/2020 10:45,27,1,0
+996,24/4/2020,Nagapattinam,Tamil Nadu,24/4/2020 10:45,26,1,0
+997,24/4/2020,Nagerkoil,Tamil Nadu,24/4/2020 10:45,12,1,0
+998,24/4/2020,Namakkal,Tamil Nadu,24/4/2020 10:45,28,5,0
+999,24/4/2020,Perambalur,Tamil Nadu,24/4/2020 10:45,2,0,0
+1000,27/4/2020,Pudukottai,Tamil Nadu,27/4/2020 10:45,0,0,0
+1001,27/4/2020,Ramanathapuram,Tamil Nadu,27/4/2020 10:45,8,2,0
+1002,27/4/2020,Sivagangai,Tamil Nadu,27/4/2020 10:45,0,1,0
+1003,27/4/2020,Ranipet,Tamil Nadu,27/4/2020 10:45,8,3,0
+1004,20/4/2020,Salem,Tamil Nadu,20/4/2020 10:45,15,2,0
+1005,20/4/2020,Thanjavur,Tamil Nadu,20/4/2020 10:45,9,5,0
+1006,20/4/2020,Tenkasi,Tamil Nadu,20/4/2020 10:45,16,6,0
+1007,20/4/2020,Theni,Tamil Nadu,20/4/2020 10:45,12,5,0
+1008,18/4/2020,Tiruvannamalai,Tamil Nadu,18/4/2020 10:45,0,2,0
+1009,18/4/2020,Thiruvallur,Tamil Nadu,18/4/2020 10:45,12,1,0
+1010,18/4/2020,Thiruvarur,Tamil Nadu,18/4/2020 10:45,9,3,0
+1011,17/4/2020,Thoothukudi,Tamil Nadu,17/4/2020 10:45,9,5,0
+1012,17/4/2020,Tirunelveli,Tamil Nadu,17/4/2020 10:45,7,3,0
+1013,17/4/2020,Tirupattur,Tamil Nadu,17/4/2020 10:45,9,4,0
+1014,17/4/2020,Tiruppur,Tamil Nadu,17/4/2020 10:45,20,2,0
+1015,17/4/2020,Tiruchirapalli,Tamil Nadu,17/4/2020 10:45,10,4,0
+1016,2/4/2020,Vellore,Tamil Nadu,2/4/2020 10:45,6,2,0
+1017,1/4/2020,Villupuram,Tamil Nadu,1/4/2020 10:45,7,4,0
+1018,27/3/2020,Virudhunagar,Tamil Nadu,27/3/2020 10:45,6,3,0
+1019,22/3/2020,Udagamandalam,Tamil Nadu,22/3/2020 10:45,2,2,0
+1020,29/4/2020,Ariyalur,Tamil Nadu,29/4/2020 10:45,1,2,0
+1021,29/4/2020,Chengalpattu,Tamil Nadu,29/4/2020 10:45,30,11,0
+1022,28/4/2020,Cuddalore,Tamil Nadu,28/4/2020 10:45,9,5,0
+1023,27/4/2020,Dindigul,Tamil Nadu,27/4/2020 10:45,21,10,0
+1024,29/4/2020,Chennai,Tamil Nadu,29/4/2020 10:45,59,20,0
+1025,27/4/2020,Coimbatore,Tamil Nadu,27/4/2020 10:45,55,15,0
+1026,29/4/2020,Dindugal,Tamil Nadu,29/4/2020 10:45,35,10,0
+1027,28/4/2020,Erode,Tamil Nadu,28/4/2020 10:45,34,9,0
+1028,28/4/2020,Kancheepuram,Tamil Nadu,28/4/2020 10:45,6,2,0
+1029,25/4/2020,Kalllakurichi,Tamil Nadu,25/4/2020 10:45,0,0,0
+1030,27/4/2020,Kanyakumari,Tamil Nadu,27/4/2020 10:45,2,0,0
+1031,25/4/2020,Karur,Tamil Nadu,25/4/2020 10:45,21,9,0
+1032,25/4/2020,Madurai,Tamil Nadu,25/4/2020 10:45,28,9,0
+1033,25/4/2020,Nagapattinam,Tamil Nadu,25/4/2020 10:45,28,9,0
+1034,25/4/2020,Nagerkoil,Tamil Nadu,25/4/2020 10:45,14,3,0
+1035,25/4/2020,Namakkal,Tamil Nadu,25/4/2020 10:45,29,9,0
+1036,25/4/2020,Perambalur,Tamil Nadu,25/4/2020 10:45,2,0,0
+1037,28/4/2020,Pudukottai,Tamil Nadu,28/4/2020 10:45,0,0,0
+1038,28/4/2020,Ramanathapuram,Tamil Nadu,28/4/2020 10:45,8,2,0
+1039,28/4/2020,Sivagangai,Tamil Nadu,28/4/2020 10:45.,0,2,0
+1040,28/4/2020,Ranipet,Tamil Nadu,28/4/2020 10:45,9,5,5
+1041,21/4/2020,Salem,Tamil Nadu,21/4/20202 10:45,16,6,0
+1042,21/4/2020,Thanjavur,Tamil Nadu,21/4/2020 10:45,10,6,0
+1043,21/4/2020,Tenkasi,Tamil Nadu,21/4/2020 10:45,21,9,0
+1044,21/4/2020,Theni,Tamil Nadu,21/4/2020 10:45,15,9,0
+1045,19/4/2020,Tiruvannamalai,Tamil Nadu,19/4/2020 10:45,6,3,0
+1046,19/4/2020,Thiruvallur,Tamil Nadu,19/4/2020 10:45,15,9,0
+1047,19/4/2020,Thiruvarur,Tamil Nadu,19/4/2020 10:45,10,6,0
+1048,18/4/2020,Thoothukudi,Tamil Nadu,18/4/2020 10:45,10,8,0
+1049,18/4/2020,Tirunelveli,Tamil Nadu,18/4/2020 10:45,15,9,0
+1050,18/4/2020,Tirupattur,Tamil Nadu,18/4/2020 10:45,10,3,0
+1051,18/4/2020,Tiruppur,Tamil Nadu,18/4/2020 10:45,24,10,0
+1052,18/4/2020,Tiruchirapalli,Tamil Nadu,18/4/2020 10:45,15,10,0
+1053,3/4/2020,Vellore,Tamil Nadu,3/4/2020 10:45,7,2,0
+1054,2/4/2020,Villupuram,Tamil Nadu,2/4/2020 10:45,8,6,0
+1055,28/3/2020,Virudhunagar,Tamil Nadu,28/3/2020 10:45,8,6,0
+1056,23/3/2020,Udagamandalam,Tamil Nadu,23/3/2020 10:45,5,3,0
+1057,30/4/2020,Ariyalur,Tamil Nadu,30/4/2020 10:45,1,2,0
+1058,30/4/2020,Chengalpattu,Tamil Nadu,30/4/2020 10:45,32,16,0
+1059,29/4/2020,Cuddalore,Tamil Nadu,29/4/2020 10:45,20,8,0
+1060,28/4/2020,Dindigul,Tamil Nadu,28/4/2020 10:45,25,19,0
+1061,30/4/2020,Chennai,Tamil Nadu,30/4/2020 10:45,75,25,1
+1062,28/4/2020,Coimbatore,Tamil Nadu,28/4/2020 10:45,57,20,1
+1063,30/4/2020,Dindugal,Tamil Nadu,30/4/2020 10:45,36,15,0
+1064,29/4/2020,Erode,Tamil Nadu,29/4/2020 10:45,35,10,0
+1065,29/4/2020,Kancheepuram,Tamil Nadu,29/4/2020 10:45,6,2,0
+1066,26/4/2020,Kalllakurichi,Tamil Nadu,26/4/2020 10:45,1,0,0
+1067,28/4/2020,Kanyakumari,Tamil Nadu,28/4/2020 10:45,2,0,0
+1068,26/4/2020,Karur,Tamil Nadu,26/4/2020 10:45,24,10,0
+1069,26/4/2020,Madurai,Tamil Nadu,26/4/2020 10:45,29,10,0
+1070,26/4/2020,Nagapattinam,Tamil Nadu,26/4/2020 10:45,30,10,0
+1071,26/4/2020,Nagerkoil,Tamil Nadu,26/4/2020 10:45,14,5,0
+1072,26/4/2020,Namakkal,Tamil Nadu,26/4/2020 10:45,30,15,0
+1073,26/4/2020,Perambalur,Tamil Nadu,26/4/2020 10:45,3,0,0
+1074,29/4/2020,Pudukottai,Tamil Nadu,29/4/2020 10:45,0,0,0
+1075,29/4/2020,Ramanathapuram,Tamil Nadu,29/4/2020 10:45,9,2,0
+1076,29/4/2020,Sivagangai,Tamil Nadu,29/4/2020 10:45,4,2,0
+1077,29/4/2020,Ranipet,Tamil Nadu,29/4/2020 10:45,15,7,0
+1078,22/4/2020,Salem,Tamil Nadu,22/4/2020 10:45,17,7,0
+1079,22/4/2020,Thanjavur,Tamil Nadu,22/4/2020 10:45,20,7,0
+1080,22/4/2020,Tenkasi,Tamil Nadu,22/4/2020 10:45,25,11,0
+1081,22/4/2020,Theni,Tamil Nadu,22/4/2020 10:45,16,15,0
+1082,20/4/2020,Tiruvannamalai,Tamil Nadu,20/4/2020 10:45,6,4,0
+1083,20/4/2020,Thiruvallur,Tamil Nadu,20/4/2020 10:45,16,15,0
+1084,20/4/2020,Thiruvarur,Tamil Nadu,20/4/2020 10:45,15,11,0
+1085,19/4/2020,Thoothukudi,Tamil Nadu,19/4/2020 10:45,15,11,0
+1086,19/4/2020,Tirunelveli,Tamil Nadu,19/4/2020 10:45,19,15,0
+1087,19/4/2020,Tirupattur,Tamil Nadu,19/4/2020 10:45,11,4,0
+1088,19/4/2020,Tiruppur,Tamil Nadu,19/4/2020 10:45,26,25,0
+1089,19/4/2020,Tiruchirapalli,Tamil Nadu,19/4/2020 10:45,24,15,0
+1090,4/4/2020,Vellore,Tamil Nadu,4/4/2020 10:45,8,5,0
+1091,3/4/2020,Villupuram,Tamil Nadu,3/4/2020 10:45,9,9,0
+1092,29/3/2020,Virudhunagar,Tamil Nadu,29/3/2020 10:45,9,7,0
+1093,24/3/2020,Udagamandalam,Tamil Nadu,24/3/2020 10:45,5,4,0
+1094,1/5/2020,Ariyalur,Tamil Nadu,1/5/2020 10:45,1,2,0
+1095,1/5/2020,Chengalpattu,Tamil Nadu,1/5/2020 10:45,33,20,0
+1096,30/4/2020,Cuddalore,Tamil Nadu,30/4/2020 10:45,21,9,0
+1097,29/4/2020,Dindigul,Tamil Nadu,29/4/2020 10:45,35,19,0
+1098,1/5/2020,Chennai,Tamil Nadu,1/5/2020 10:45,78,26,2
+1099,29/4/2020,Coimbatore,Tamil Nadu,29/4/2020 10:45,60,25,1
+1100,1/5/2020,Dindugal,Tamil Nadu,1/5/2020 10:45,37,16,0
+1101,30/4/2020,Erode,Tamil Nadu,30/4/2020 10:45,39,15,0
+1102,30/4/2020,Kancheepuram,Tamil Nadu,30/4/2020 10:45,6,2,0
+1103,27/4/2020,Kalllakurichi,Tamil Nadu,27/4/2020 10:45,1,0,0
+1104,29/4/2020,Kanyakumari,Tamil Nadu,29/4/2020 10:45,3,0,0
+1105,27/4/2020,Karur,Tamil Nadu,27/4/2020 10:45,25,14,0
+1106,27/4/2020,Madurai,Tamil Nadu,27/4/2020 10:45,35,15,0
+1107,27/4/2020,Nagapattinam,Tamil Nadu,27/4/2020 10:45,35,15,0
+1108,27/4/2020,Nagerkoil,Tamil Nadu,27/4/2020 10:45,15,5,0
+1109,27/4/2020,Namakkal,Tamil Nadu,27/4/2020 10:45,36,16,0
+1110,27/4/2020,Perambalur,Tamil Nadu,27/4/2020 10:45,3,0,0
+1111,30/4/2020,Pudukottai,Tamil Nadu,30/4/2020 10:45,0,0,0
+1112,30/4/2020,Ramanathapuram,Tamil Nadu,30/4/2020 10:45,9,2,0
+1113,30/4/2020,Sivagangai,Tamil Nadu,30/4/2020 10:45,5,2,0
+1114,30/4/2020,Ranipet,Tamil Nadu,30/4/2020 10:45,17,9,0
+1115,23/4/2020,Salem,Tamil Nadu,23/4/2020 10:45,18,8,0
+1116,23/4/2020,Thanjavur,Tamil Nadu,23/4/2020 10:45,25,9,0
+1117,23/4/2020,Tenkasi,Tamil Nadu,23/4/2020 10:45,25,11,0
+1118,23/4/2020,Theni,Tamil Nadu,23/4/2020 10:45,17,16,0
+1119,21/4/2020,Tiruvannamalai,Tamil Nadu,21/4/2020 10:45,6,4,0
+1120,21/4/2020,Thiruvallur,Tamil Nadu,21/4/2020 10:45,17,16,0
+1121,21/4/2020,Thiruvarur,Tamil Nadu,21/4/2020 10:45,16,11,0
+1122,20/4/2020,Thoothukudi,Tamil Nadu,20/4/2020 10:45,16,11,0
+1123,20/4/2020,Tirunelveli,Tamil Nadu,20/4/2020 10:45,20,16,0
+1124,20/4/2020,Tirupattur,Tamil Nadu,20/4/2020 10:45,12,5,0
+1125,20/4/2020,Tiruppur,Tamil Nadu,20/4/2020 10:45,30,27,0
+1126,20/4/2020,Tiruchirapalli,Tamil Nadu,20/4/2020 10:45,28,17,0
+1127,5/4/2020,Vellore,Tamil Nadu,5/4/2020 10:45,15,6,0
+1128,4/4/2020,Villupuram,Tamil Nadu,4/4/2020 10:45,10,11,0
+1129,30/3/2020,Virudhunagar,Tamil Nadu,30/3/2020 10:45,9,8,0
+1130,25/3/2020,Udagamandalam,Tamil Nadu,25/3/2020 10:45,6,4,0
+1131,2/5/2020,Ariyalur,Tamil Nadu,2/5/2020 10:45,1,2,0
+1132,2/5/2020,Chengalpattu,Tamil Nadu,2/5/2020 10:45,35,20,0
+1133,1/5/2020,Cuddalore,Tamil Nadu,1/5/2020 10:45,22,9,0
+1134,30/4/2020,Dindigul,Tamil Nadu,30/4/2020 10:45,36,21,0
+1135,2/5/2020,Chennai,Tamil Nadu,2/5/2020 10:45,100,27,3
+1136,30/4/2020,Coimbatore,Tamil Nadu,30/4/2020 10:45,68,27,1
+1137,2/5/2020,Dindugal,Tamil Nadu,2/5/2020 10:45,38,17,0
+1138,1/5/2020,Erode,Tamil Nadu,1/5/2020 10:45,40,16,0
+1139,1/5/2020,Kancheepuram,Tamil Nadu,1/5/2020 10:45,6,2,0
+1140,28/4/2020,Kalllakurichi,Tamil Nadu,28/4/2020 10:45,1,0,0
+1141,30/4/2020,Kanyakumari,Tamil Nadu,30/4/2020 10:45,3,0,0
+1142,28/4/2020,Karur,Tamil Nadu,28/4/2020 10:45,30,14,0
+1143,28/4/2020,Madurai,Tamil Nadu,28/4/2020 10:45,36,16,0
+1144,28/4/2020,Nagapattinam,Tamil Nadu,28/4/2020 10:45,36,16,0
+1145,28/4/2020,Nagerkoil,Tamil Nadu,28/4/2020 10:45,15,5,0
+1146,28/4/2020,Namakkal,Tamil Nadu,28/4/2020 10:45,37,16,0
+1147,28/4/2020,Perambalur,Tamil Nadu,28/4/2020 10:45,3,0,0
+1148,1/5/2020,Pudukottai,Tamil Nadu,1/5/2020 10:45,0,0,0
+1149,1/5/2020,Ramanathapuram,Tamil Nadu,1/5/2020 10:45,9,2,0
+1150,1/5/2020,Sivagangai,Tamil Nadu,1/5/2020 10:45,6,2,0
+1151,1/5/2020,Ranipet,Tamil Nadu,1/5/2020 10:45,18,9,0
+1152,24/4/2020,Salem,Tamil Nadu,24/4/2020 10:45,18,8,0
+1153,24/4/2020,Thanjavur,Tamil Nadu,24/4/2020 10:45,26,11,0
+1154,24/4/2020,Tenkasi,Tamil Nadu,24/4/2020 10:45,25,11,0
+1155,24/4/2020,Theni,Tamil Nadu,24/4/2020 10:45,20,17,0
+1156,22/4/2020,Tiruvannamalai,Tamil Nadu,22/4/2020 10:45,8,4,0
+1157,22/4/2020,Thiruvallur,Tamil Nadu,22/4/2020 10:45,20,16,0
+1158,22/4/2020,Thiruvarur,Tamil Nadu,22/4/2020 10:45,17,11,0
+1159,21/4/2020,Thoothukudi,Tamil Nadu,21/4/2020 10:45,17,11,0
+1160,21/4/2020,Tirunelveli,Tamil Nadu,21/4/2020 10:45,24,17,0
+1161,21/4/2020,Tirupattur,Tamil Nadu,21/4/2020 10:45,15,5,0
+1162,21/4/2020,Tiruppur,Tamil Nadu,21/4/2020 10:45,50,28,0
+1163,21/4/2020,Tiruchirapalli,Tamil Nadu,21/4/2020 10:45,29,18,0
+1164,6/4/2020,Vellore,Tamil Nadu,6/4/2020 10:45,16,6,0
+1165,5/4/2020,Villupuram,Tamil Nadu,5/4/2020 10:45,12,12,0
+1166,31/3/2020,Virudhunagar,Tamil Nadu,31/3/2020 10:45,9,8,0
+1167,26/3/2020,Udagamandalam,Tamil Nadu,26/3/2020 10:45,7,4,0
+1168,3/5/2020,Ariyalur,Tamil Nadu,3/5/2020 10:45,2,2,0
+1169,3/5/2020,Chengalpattu,Tamil Nadu,3/5/2020 10:45,35,21,0
+1170,2/5/2020,Cuddalore,Tamil Nadu,2/5/2020 10:45,23,10,0
+1171,1/5/2020,Dindigul,Tamil Nadu,1/5/2020 10:45,41,25,0
+1172,3/5/2020,Chennai,Tamil Nadu,3/5/2020 10:45,132,30,3
+1173,1/5/2020,Coimbatore,Tamil Nadu,1/5/2020 10:45,75,28,2
+1174,3/5/2020,Dindugal,Tamil Nadu,3/5/2020 10:45,39,18,0
+1175,2/5/2020,Erode,Tamil Nadu,2/5/2020 10:45,45,19,0
+1176,2/5/2020,Kancheepuram,Tamil Nadu,2/5/2020 10:45,7,2,0
+1177,29/4/2020,Kalllakurichi,Tamil Nadu,29/4/2020 10:45,1,0,0
+1178,1/5/2020,Kanyakumari,Tamil Nadu,1/5/2020 10:45,3,0,0
+1179,29/4/2020,Karur,Tamil Nadu,29/4/2020 10:45,31,16,0
+1180,29/4/2020,Madurai,Tamil Nadu,29/4/2020 10:45,37,17,0
+1181,29/4/2020,Nagapattinam,Tamil Nadu,29/4/2020 10:45,37,17,0
+1182,29/4/2020,Nagerkoil,Tamil Nadu,29/4/2020 10:45,15,5,0
+1183,29/4/2020,Namakkal,Tamil Nadu,29/4/2020 10:45,39,16,0
+1184,29/4/2020,Perambalur,Tamil Nadu,29/4/2020 10:45,3,0,0
+1185,2/5/2020,Pudukottai,Tamil Nadu,2/5/2020 10:45,1,0,0
+1186,2/5/2020,Ramanathapuram,Tamil Nadu,2/5/2020 10:45,10,2,0
+1187,2/5/2020,Sivagangai,Tamil Nadu,2/5/2020 10:45,7,3,0
+1188,2/5/2020,Ranipet,Tamil Nadu,2/5/2020 10:45,20,11,0
+1189,25/4/2020,Salem,Tamil Nadu,25/4/2020 10:45,19,8,0
+1190,25/4/2020,Thanjavur,Tamil Nadu,25/4/2020 10:45,28,15,0
+1191,25/4/2020,Tenkasi,Tamil Nadu,25/4/2020 10:45,25,11,0
+1192,25/4/2020,Theni,Tamil Nadu,25/4/2020 10:45,25,18,0
+1193,23/4/2020,Tiruvannamalai,Tamil Nadu,23/4/2020 10:45,9,4,0
+1194,23/4/2020,Thiruvallur,Tamil Nadu,23/4/2020 10:45,25,18,0
+1195,23/4/2020,Thiruvarur,Tamil Nadu,23/4/2020 10:45,19,11,0
+1196,22/4/2020,Thoothukudi,Tamil Nadu,22/4/2020 10:45,19,11,0
+1197,22/4/2020,Tirunelveli,Tamil Nadu,22/4/2020 10:45,25,18,0
+1198,22/4/2020,Tirupattur,Tamil Nadu,22/4/2020 10:45,16,6,0
+1199,22/4/2020,Tiruppur,Tamil Nadu,22/4/2020 10:45,58,29,0
+1200,22/4/2020,Tiruchirapalli,Tamil Nadu,22/4/2020 10:45,30,19,0
+1201,7/4/2020,Vellore,Tamil Nadu,7/4/2020 10:45,17,6,0
+1202,6/4/2020,Villupuram,Tamil Nadu,6/4/2020 10:45,23,13,0
+1203,1/4/2020,Virudhunagar,Tamil Nadu,1/4/2020 10:45,9,8,0
+1204,27/3/2020,Udagamandalam,Tamil Nadu,27/3/2020 10:45,8,4,0
+1205,4/5/2020,Ariyalur,Tamil Nadu,4/5/2020 10:45,2,2,1
+1206,4/5/2020,Chengalpattu,Tamil Nadu,4/5/2020 10:45,40,22,2
+1207,3/5/2020,Cuddalore,Tamil Nadu,3/5/2020 10:45,24,11,0
+1208,2/5/2020,Dindigul,Tamil Nadu,2/5/2020 10:45,42,26,0
+1209,4/5/2020,Chennai,Tamil Nadu,4/5/2020 10:45,157,35,8
+1210,2/5/2020,Coimbatore,Tamil Nadu,2/5/2020 10:45,78,29,5
+1211,4/5/2020,Dindugal,Tamil Nadu,4/5/2020 10:45,40,19,0
+1212,3/5/2020,Erode,Tamil Nadu,3/5/2020 10:45,47,24,0
+1213,3/5/2020,Kancheepuram,Tamil Nadu,3/5/2020 10:45,8,2,0
+1214,30/4/2020,Kalllakurichi,Tamil Nadu,30/4/2020 10:45,1,0,0
+1215,2/5/2020,Kanyakumari,Tamil Nadu,2/5/2020 10:45,3,0,0
+1216,30/4/2020,Karur,Tamil Nadu,30/4/2020 10:45,35,17,0
+1217,30/4/2020,Madurai,Tamil Nadu,30/4/2020 10:45,38,18,0
+1218,30/4/2020,Nagapattinam,Tamil Nadu,30/4/2020 10:45,38,18,2
+1219,30/4/2020,Nagerkoil,Tamil Nadu,30/4/2020 10:45,15,5,2
+1220,30/4/2020,Namakkal,Tamil Nadu,30/4/2020 10:45,40,17,0
+1221,30/4/2020,Perambalur,Tamil Nadu,30/4/2020 10:45,4,0,3
+1222,3/5/2020,Pudukottai,Tamil Nadu,3/5/2020 10:45,1,0,0
+1223,3/5/2020,Ramanathapuram,Tamil Nadu,3/5/2020 10:45,10,2,0
+1224,3/5/2020,Sivagangai,Tamil Nadu,3/5/2020 10:45,8,2,2
+1225,3/5/2020,Ranipet,Tamil Nadu,3/5/2020 10:45,24,12,3
+1226,26/4/2020,Salem,Tamil Nadu,26/4/2020 10:45,20,9,0
+1227,26/4/2020,Thanjavur,Tamil Nadu,26/4/2020 10:45,30,15,3
+1228,26/4/2020,Tenkasi,Tamil Nadu,26/4/2020 10:45,26,11,0
+1229,26/4/2020,Theni,Tamil Nadu,26/4/2020 10:45,27,18,5
+1230,24/4/2020,Tiruvannamalai,Tamil Nadu,24/4/2020 10:45,9,4,2
+1231,24/4/2020,Thiruvallur,Tamil Nadu,24/4/2020 10:45,27,18,3
+1232,24/4/2020,Thiruvarur,Tamil Nadu,24/4/2020 10:45,20,11,0
+1233,23/4/2020,Thoothukudi,Tamil Nadu,23/4/2020 10:45,20,11,2
+1234,23/4/2020,Tirunelveli,Tamil Nadu,23/4/2020 10:45,30,19,2
+1235,23/4/2020,Tirupattur,Tamil Nadu,23/4/2020 10:45,16,6,0
+1236,23/4/2020,Tiruppur,Tamil Nadu,23/4/2020 10:45,59,35,3
+1237,23/4/2020,Tiruchirapalli,Tamil Nadu,23/4/2020 10:45,35,20,0
+1238,8/4/2020,Vellore,Tamil Nadu,8/4/2020 10:45,18,7,0
+1239,7/4/2020,Villupuram,Tamil Nadu,7/4/2020 10:45,24,14,1
+1240,2/4/2020,Virudhunagar,Tamil Nadu,2/4/2020 10:45,11,9,3
+1241,28/3/2020,Udagamandalam,Tamil Nadu,28/3/2020 10:45,8,4,0
+1242,5/5/2020,Ariyalur,Tamil Nadu,5/5/2020 10:45,3,2,1
+1243,5/5/2020,Chengalpattu,Tamil Nadu,5/5/2020 10:45,45,22,4
+1244,4/5/2020,Cuddalore,Tamil Nadu,4/5/2020 10:45,25,11,0
+1245,3/5/2020,Dindigul,Tamil Nadu,3/5/2020 10:45,45,27,0
+1246,5/5/2020,Chennai,Tamil Nadu,5/5/2020 10:45,182,40,15
+1247,3/5/2020,Coimbatore,Tamil Nadu,3/5/2020 10:45,89,30,7
+1248,5/5/2020,Dindugal,Tamil Nadu,5/5/2020 10:45,40,20,0
+1249,4/5/2020,Erode,Tamil Nadu,4/5/2020 10:45,49,26,0
+1250,4/5/2020,Kancheepuram,Tamil Nadu,4/5/2020 10:45,8,2,0
+1251,1/5/2020,Kalllakurichi,Tamil Nadu,1/5/2020 10:45,1,0,0
+1252,3/5/2020,Kanyakumari,Tamil Nadu,3/5/2020 10:45,3,0,0
+1253,1/5/2020,Karur,Tamil Nadu,1/5/2020 10:45,36,18,0
+1254,1/5/2020,Madurai,Tamil Nadu,1/5/2020 10:45,39,19,0
+1255,1/5/2020,Nagapattinam,Tamil Nadu,1/5/2020 10:45,40,19,3
+1256,1/5/2020,Nagerkoil,Tamil Nadu,1/5/2020 10:45,16,6,3
+1257,1/5/2020,Namakkal,Tamil Nadu,1/5/2020 10:45,45,18,0
+1258,1/5/2020,Perambalur,Tamil Nadu,1/5/2020 10:45,4,0,3
+1259,4/5/2020,Pudukottai,Tamil Nadu,4/5/2020 10:45,1,0,0
+1260,4/5/2020,Ramanathapuram,Tamil Nadu,4/5/2020 10:45,10,2,0
+1261,4/5/2020,Sivagangai,Tamil Nadu,4/5/2020 10:45,10,2,2
+1262,4/5/2020,Ranipet,Tamil Nadu,4/5/2020 10:45,25,13,3
+1263,27/4/2020,Salem,Tamil Nadu,27/4/2020 10:45,20,10,0
+1264,27/4/2020,Thanjavur,Tamil Nadu,27/4/2020 10:45,35,15,3
+1265,27/4/2020,Tenkasi,Tamil Nadu,27/4/2020 10:45,26,11,0
+1266,27/4/2020,Theni,Tamil Nadu,27/4/2020 10:45,28,19,5
+1267,25/4/2020,Tiruvannamalai,Tamil Nadu,25/4/2020 10:45,9,4,3
+1268,25/4/2020,Thiruvallur,Tamil Nadu,25/4/2020 10:45,28,19,3
+1269,25/4/2020,Thiruvarur,Tamil Nadu,25/4/2020 10:45,25,11,0
+1270,24/4/2020,Thoothukudi,Tamil Nadu,24/4/2020 10:45,25,11,3
+1271,24/4/2020,Tirunelveli,Tamil Nadu,24/4/2020 10:45,35,20,3
+1272,24/4/2020,Tirupattur,Tamil Nadu,24/4/2020 10:45,16,6,0
+1273,24/4/2020,Tiruppur,Tamil Nadu,24/4/2020 10:45,75,36,3
+1274,24/4/2020,Tiruchirapalli,Tamil Nadu,24/4/2020 10:45,36,21,0
+1275,9/4/2020,Vellore,Tamil Nadu,9/4/2020 10:45,19,7,0
+1276,8/4/2020,Villupuram,Tamil Nadu,8/4/2020 10:45,25,15,2
+1277,3/4/2020,Virudhunagar,Tamil Nadu,3/4/2020 10:45,12,9,3
+1278,29/3/2020,Udagamandalam,Tamil Nadu,29/3/2020 10:45,8,4,0
+1279,6/5/2020,Ariyalur,Tamil Nadu,6/5/2020 10:45,3,2,1
+1280,6/5/2020,Chengalpattu,Tamil Nadu,6/5/2020 10:45,47,23,5
+1281,5/5/2020,Cuddalore,Tamil Nadu,5/5/2020 10:45,25,11,0
+1282,4/5/2020,Dindigul,Tamil Nadu,4/5/2020 10:45,52,30,0
+1283,6/5/2020,Chennai,Tamil Nadu,6/5/2020 10:45,208,47,17
+1284,4/5/2020,Coimbatore,Tamil Nadu,4/5/2020 10:45,95,35,8
+1285,6/5/2020,Dindugal,Tamil Nadu,6/5/2020 10:45,41,21,0
+1286,5/5/2020,Erode,Tamil Nadu,5/5/2020 10:45,55,27,0
+1287,5/5/2020,Kancheepuram,Tamil Nadu,5/5/2020 10:45,8,2,0
+1288,2/5/2020,Kalllakurichi,Tamil Nadu,2/5/2020 10:45,2,0,0
+1289,4/5/2020,Kanyakumari,Tamil Nadu,4/5/2020 10:45,4,0,0
+1290,2/5/2020,Karur,Tamil Nadu,2/5/2020 10:45,37,19,0
+1291,2/5/2020,Madurai,Tamil Nadu,2/5/2020 10:45,40,20,0
+1292,2/5/2020,Nagapattinam,Tamil Nadu,2/5/2020 10:45,42,20,4
+1293,2/5/2020,Nagerkoil,Tamil Nadu,2/5/2020 10:45,16,6,4
+1294,2/5/2020,Namakkal,Tamil Nadu,2/5/2020 10:45,46,19,0
+1295,2/5/2020,Perambalur,Tamil Nadu,2/5/2020 10:45,4,0,4
+1296,5/5/2020,Pudukottai,Tamil Nadu,5/5/2020 10:45,1,0,0
+1297,5/5/2020,Ramanathapuram,Tamil Nadu,5/5/2020 10:45,10,3,0
+1298,5/5/2020,Sivagangai,Tamil Nadu,5/5/2020 10:45,11,2,3
+1299,5/5/2020,Ranipet,Tamil Nadu,5/5/2020 10:45,29,14,4
+1300,28/4/2020,Salem,Tamil Nadu,28/4/2020 10:45,22,11,0
+1301,28/4/2020,Thanjavur,Tamil Nadu,28/4/2020 10:45,36,20,5
+1302,28/4/2020,Tenkasi,Tamil Nadu,28/4/2020 10:45,26,12,0
+1303,28/4/2020,Theni,Tamil Nadu,28/4/2020 10:45,35,20,5
+1304,26/4/2020,Tiruvannamalai,Tamil Nadu,26/4/2020 10:45,11,5,4
+1305,26/4/2020,Thiruvallur,Tamil Nadu,26/4/2020 10:45,35,19,5
+1306,26/4/2020,Thiruvarur,Tamil Nadu,26/4/2020 10:45,26,12,0
+1307,25/4/2020,Thoothukudi,Tamil Nadu,25/4/2020 10:45',26,11,4
+1308,25/4/2020,Tirunelveli,Tamil Nadu,25/4/2020 10:45,36,21,4
+1309,25/4/2020,Tirupattur,Tamil Nadu,25/4/2020 10:45,17,6,0
+1310,25/4/2020,Tiruppur,Tamil Nadu,25/4/2020 10:45,78,37,5
+1311,25/4/2020,Tiruchirapalli,Tamil Nadu,25/4/2020 10:45,38,22,0
+1312,10/4/2020,Vellore,Tamil Nadu,10/4/2020 10:45,20,8,0
+1313,9/4/2020,Villupuram,Tamil Nadu,9/4/2020 10:45,26,16,3
+1314,4/4/2020,Virudhunagar,Tamil Nadu,4/4/2020 10:45,15,9,4
+1315,30/3/2020,Udagamandalam,Tamil Nadu,30/3/2020 10:45,8,4,0
+1316,7/5/2020,Ariyalur,Tamil Nadu,7/5/2020 10:45,3,2,1
+1317,7/5/2020,Chengalpattu,Tamil Nadu,7/5/2020 10:45,49,24,5
+1318,6/5/2020,Cuddalore,Tamil Nadu,6/5/2020 10:45,25,12,0
+1319,5/5/2020,Dindigul,Tamil Nadu,5/5/2020 10:45,57,32,0
+1320,7/5/2020,Chennai,Tamil Nadu,7/5/2020 10:45,253,48,18
+1321,5/5/2020,Coimbatore,Tamil Nadu,5/5/2020 10:45,115,42,9
+1322,7/5/2020,Dindugal,Tamil Nadu,7/5/2020 10:45,41,21,0
+1323,6/5/2020,Erode,Tamil Nadu,6/5/2020 10:45,57,28,0
+1324,6/5/2020,Kancheepuram,Tamil Nadu,6/5/2020 10:45,8,3,0
+1325,3/5/2020,Kalllakurichi,Tamil Nadu,3/5/2020 10:45,2,0,0
+1326,5/5/2020,Kanyakumari,Tamil Nadu,5/5/2020 10:45,4,0,0
+1327,3/5/2020,Karur,Tamil Nadu,3/5/2020 10:45,38,20,0
+1328,3/5/2020,Madurai,Tamil Nadu,3/5/2020 10:45,43,21,0
+1329,3/5/2020,Nagapattinam,Tamil Nadu,3/5/2020 10:45,43,20,5
+1330,3/5/2020,Nagerkoil,Tamil Nadu,3/5/2020 10:45,16,6,5
+1331,3/5/2020,Namakkal,Tamil Nadu,3/5/2020 10:45,47,20,0
+1332,3/5/2020,Perambalur,Tamil Nadu,3/5/2020 10:45,5,0,5
+1333,6/5/2020,Pudukottai,Tamil Nadu,6/5/2020 10:45,1,0,0
+1334,6/5/2020,Ramanathapuram,Tamil Nadu,6/5/2020 10:45,11,3,0
+1335,6/5/2020,Sivagangai,Tamil Nadu,6/5/2020 10:45,11,2,5
+1336,6/5/2020,Ranipet,Tamil Nadu,6/5/2020 10:45,30,15,5
+1337,29/4/2020,Salem,Tamil Nadu,29/4/2020 10:45,23,11,0
+1338,29/4/2020,Thanjavur,Tamil Nadu,29/4/2020 10:45,37,20,5
+1339,29/4/2020,Tenkasi,Tamil Nadu,29/4/2020 10:45,26,12,0
+1340,29/4/2020,Theni,Tamil Nadu,29/4/2020 10:45,39,20,5
+1341,27/4/2020,Tiruvannamalai,Tamil Nadu,27/4/2020 10:45,11,5,4
+1342,27/4/2020,Thiruvallur,Tamil Nadu,27/4/2020 10:45,39,20,5
+1343,27/4/2020,Thiruvarur,Tamil Nadu,27/4/2020 10:45,26,12,0
+1344,26/4/2020,Thoothukudi,Tamil Nadu,26/4/2020 10:45,26,11,5
+1345,26/4/2020,Tirunelveli,Tamil Nadu,26/4/2020 10:45,45,25,4
+1346,26/4/2020,Tirupattur,Tamil Nadu,26/4/2020 10:45,17,7,0
+1347,26/4/2020,Tiruppur,Tamil Nadu,26/4/2020 10:45,79,45,5
+1348,26/4/2020,Tiruchirapalli,Tamil Nadu,26/4/2020 10:45,39,23,0
+1349,11/4/2020,Vellore,Tamil Nadu,11/4/2020 10:45,20,8,0
+1350,10/4/2020,Villupuram,Tamil Nadu,10/4/2020 10:45,30,16,3
+1351,5/4/2020,Virudhunagar,Tamil Nadu,5/4/2020 10:45,16,10,5
+1352,31/3/2020,Udagamandalam,Tamil Nadu,31/3/2020 10:45,8,4,0
+1353,8/5/2020,Ariyalur,Tamil Nadu,8/5/2020 10:45,3,2,1
+1354,8/5/2020,Chengalpattu,Tamil Nadu,8/5/2020 10:45,50,25,5
+1355,7/5/2020,Cuddalore,Tamil Nadu,7/5/2020 10:45,25,12,0
+1356,6/5/2020,Dindigul,Tamil Nadu,6/5/2020 10:45,60,35,0
+1357,8/5/2020,Chennai,Tamil Nadu,8/5/2020 10:45,269,59,18
+1358,6/5/2020,Coimbatore,Tamil Nadu,6/5/2020 10:45,120,49,10
+1359,8/5/2020,Dindugal,Tamil Nadu,8/5/2020 10:45,41,21,0
+1360,7/5/2020,Erode,Tamil Nadu,7/5/2020 10:45,65,34,0
+1361,7/5/2020,Kancheepuram,Tamil Nadu,7/5/2020 10:45,8,3,0
+1362,4/5/2020,Kalllakurichi,Tamil Nadu,4/5/2020 10:45,2,0,0
+1363,6/5/2020,Kanyakumari,Tamil Nadu,6/5/2020 10:45,4,0,0
+1364,4/5/2020,Karur,Tamil Nadu,4/5/2020 10:45,39,21,0
+1365,4/5/2020,Madurai,Tamil Nadu,4/5/2020 10:45,45,22,0
+1366,4/5/2020,Nagapattinam,Tamil Nadu,4/5/2020 10:45,44,21,5
+1367,4/5/2020,Nagerkoil,Tamil Nadu,4/5/2020 10:45,16,7,5
+1368,4/5/2020,Namakkal,Tamil Nadu,4/5/2020 10:45,48,21,0
+1369,4/5/2020,Perambalur,Tamil Nadu,4/5/2020 10:45,5,0,5
+1370,7/5/2020,Pudukottai,Tamil Nadu,7/5/2020 10:45,1,0,0
+1371,7/5/2020,Ramanathapuram,Tamil Nadu,7/5/2020 10:45,11,3,0
+1372,7/5/2020,Sivagangai,Tamil Nadu,7/5/2020 10:45,11,3,5
+1373,7/5/2020,Ranipet,Tamil Nadu,7/5/2020 10:45,34,16,5
+1374,30/4/2020,Salem,Tamil Nadu,30/4/2020 10:45,23,11,0
+1375,30/4/2020,Thanjavur,Tamil Nadu,30/4/2020 10:45,38,20,5
+1376,30/4/2020,Tenkasi,Tamil Nadu,30/4/2020 10:45,26,13,0
+1377,30/4/2020,Theni,Tamil Nadu,30/4/2020 10:45,42,20,5
+1378,28/4/2020,Tiruvannamalai,Tamil Nadu,28/4/2020 10:45,12,5,5
+1379,28/4/2020,Thiruvallur,Tamil Nadu,28/4/2020 10:45,42,21,5
+1380,28/4/2020,Thiruvarur,Tamil Nadu,28/4/2020 10:45,27,12,0
+1381,27/4/2020,Thoothukudi,Tamil Nadu,27/4/2020 10:45,27,11,5
+1382,27/4/2020,Tirunelveli,Tamil Nadu,27/4/2020 10:45,49,26,4
+1383,27/4/2020,Tirupattur,Tamil Nadu,27/4/2020 10:45,17,7,0
+1384,27/4/2020,Tiruppur,Tamil Nadu,27/4/2020 10:45,80,48,5
+1385,27/4/2020,Tiruchirapalli,Tamil Nadu,27/4/2020 10:45,45,23,0
+1386,12/4/2020,Vellore,Tamil Nadu,12/4/2020 10:45,21,9,0
+1387,11/4/2020,Villupuram,Tamil Nadu,11/4/2020 10:45,34,17,3
+1388,6/4/2020,Virudhunagar,Tamil Nadu,6/4/2020 10:45,17,10,5
+1389,1/4/2020,Udagamandalam,Tamil Nadu,1/4/2020 10:45,9,5,0
+1390,9/5/2020,Ariyalur,Tamil Nadu,9/5/2020 10:45,4,2,1
+1391,9/5/2020,Chengalpattu,Tamil Nadu,9/5/2020 10:45,53,26,5
+1392,8/5/2020,Cuddalore,Tamil Nadu,8/5/2020 10:45,26,13,0
+1393,7/5/2020,Dindigul,Tamil Nadu,7/5/2020 10:45,76,37,0
+1394,9/5/2020,Chennai,Tamil Nadu,9/5/2020 10:45,275,66,19
+1395,7/5/2020,Coimbatore,Tamil Nadu,7/5/2020 10:45,133,57,10
+1396,9/5/2020,Dindugal,Tamil Nadu,9/5/2020 10:45,42,21,0
+1397,8/5/2020,Erode,Tamil Nadu,8/5/2020 10:45,68,35,0
+1398,8/5/2020,Kancheepuram,Tamil Nadu,8/5/2020 10:45,9,3,0
+1399,5/5/2020,Kalllakurichi,Tamil Nadu,5/5/2020 10:45,3,0,0
+1400,7/5/2020,Kanyakumari,Tamil Nadu,7/5/2020 10:45,5,0,0
+1401,5/5/2020,Karur,Tamil Nadu,5/5/2020 10:45,40,21,0
+1402,5/5/2020,Madurai,Tamil Nadu,5/5/2020 10:45,46,23,0
+1403,5/5/2020,Nagapattinam,Tamil Nadu,5/5/2020 10:45,44,22,5
+1404,5/5/2020,Nagerkoil,Tamil Nadu,5/5/2020 10:45,16,7,5
+1405,5/5/2020,Namakkal,Tamil Nadu,5/5/2020 10:45,49,23,0
+1406,5/5/2020,Perambalur,Tamil Nadu,5/5/2020 10:45,5,0,5
+1407,8/5/2020,Pudukottai,Tamil Nadu,8/5/2020 10:45,1,0,0
+1408,8/5/2020,Ramanathapuram,Tamil Nadu,8/5/2020 10:45,11,3,0
+1409,8/5/2020,Sivagangai,Tamil Nadu,8/5/2020 10:45,12,3,5
+1410,8/5/2020,Ranipet,Tamil Nadu,8/5/2020 10:45,35,18,5
+1411,1/5/2020,Salem,Tamil Nadu,1/5/2020 10:45,24,12,0
+1412,1/5/2020,Thanjavur,Tamil Nadu,1/5/2020 10:45,40,21,5
+1413,1/5/2020,Tenkasi,Tamil Nadu,1/5/2020 10:45,26,13,0
+1414,1/5/2020,Theni,Tamil Nadu,1/5/2020 10:45,43,21,5
+1415,29/4/2020,Tiruvannamalai,Tamil Nadu,29/4/2020 10:45,12,5,5
+1416,29/4/2020,Thiruvallur,Tamil Nadu,29/4/2020 10:45,43,24,5
+1417,29/4/2020,Thiruvarur,Tamil Nadu,29/4/2020 10:45,27,12,0
+1418,28/4/2020,Thoothukudi,Tamil Nadu,28/4/2020 10:45,27,12,5
+1419,28/4/2020,Tirunelveli,Tamil Nadu,28/4/2020 10:45,58,29,4
+1420,28/4/2020,Tirupattur,Tamil Nadu,28/4/2020 10:45,17,7,0
+1421,28/4/2020,Tiruppur,Tamil Nadu,28/4/2020 10:45,95,50,5
+1422,28/4/2020,Tiruchirapalli,Tamil Nadu,28/4/2020 10:45,49,24,0
+1423,13/4/2020,Vellore,Tamil Nadu,13/4/2020 10:45,22,10,0
+1424,12/4/2020,Villupuram,Tamil Nadu,12/4/2020 10:45,35,17,3
+1425,7/4/2020,Virudhunagar,Tamil Nadu,7/4/2020 10:45,19,10,5
+1426,2/4/2020,Udagamandalam,Tamil Nadu,2/4/2020 10:45,9,5,0
+1427,10/5/2020,Ariyalur,Tamil Nadu,10/5/2020 10:45,4,2,1
+1428,10/5/2020,Chengalpattu,Tamil Nadu,10/5/2020 10:45,53,26,5
+1429,9/5/2020,Cuddalore,Tamil Nadu,9/5/2020 10:45,26,13,0
+1430,8/5/2020,Dindigul,Tamil Nadu,8/5/2020 10:45,76,38,0
+1431,10/5/2020,Chennai,Tamil Nadu,10/5/2020 10:45,303,75,20
+1432,8/5/2020,Coimbatore,Tamil Nadu,8/5/2020 10:45,133,66,10
+1433,10/5/2020,Dindugal,Tamil Nadu,10/5/2020 10:45,43,21,0
+1434,9/5/2020,Erode,Tamil Nadu,9/5/2020 10:45,70,35,0
+1435,9/5/2020,Kancheepuram,Tamil Nadu,9/5/2020 10:45,9,3,0
+1436,6/5/2020,Kalllakurichi,Tamil Nadu,6/5/2020 10:45,3,0,0
+1437,8/5/2020,Kanyakumari,Tamil Nadu,8/5/2020 10:45,5,0,0
+1438,6/5/2020,Karur,Tamil Nadu,6/5/2020 10:45,42,21,0
+1439,6/5/2020,Madurai,Tamil Nadu,6/5/2020 10:45,46,23,0
+1440,6/5/2020,Nagapattinam,Tamil Nadu,6/5/2020 10:45,44,22,5
+1441,6/5/2020,Nagerkoil,Tamil Nadu,6/5/2020 10:45,16,8,5
+1442,6/5/2020,Namakkal,Tamil Nadu,6/5/2020 10:45,50,25,0
+1443,6/5/2020,Perambalur,Tamil Nadu,6/5/2020 10:45,5,0,5
+1444,9/5/2020,Pudukottai,Tamil Nadu,9/5/2020 10:45,1,0,0
+1445,9/5/2020,Ramanathapuram,Tamil Nadu,9/5/2020 10:45,11,3,0
+1446,9/5/2020,Sivagangai,Tamil Nadu,9/5/2020 10:45,12,3,5
+1447,9/5/2020,Ranipet,Tamil Nadu,9/5/2020 10:45,39,19,5
+1448,2/5/2020,Salem,Tamil Nadu,2/5/2020 10:45,24,12,0
+1449,2/5/2020,Thanjavur,Tamil Nadu,2/5/2020 10:45,46,23,5
+1450,2/5/2020,Tenkasi,Tamil Nadu,2/5/2020 10:45,26,13,0
+1451,2/5/2020,Theni,Tamil Nadu,2/5/2020 10:45,43,21,5
+1452,30/4/2020,Tiruvannamalai,Tamil Nadu,30/4/2020 10:45,12,5,5
+1453,30/4/2020,Thiruvallur,Tamil Nadu,30/4/2020 10:45,48,24,5
+1454,30/4/2020,Thiruvarur,Tamil Nadu,30/4/2020 10:45,27,12,0
+1455,29/4/2020,Thoothukudi,Tamil Nadu,29/4/2020 10:45,27,12,5
+1456,29/4/2020,Tirunelveli,Tamil Nadu,29/4/2020 10:45,62,30,4
+1457,29/4/2020,Tirupattur,Tamil Nadu,29/4/2020 10:45,17,7,0
+1458,29/4/2020,Tiruppur,Tamil Nadu,29/4/2020 10:45,109,50,5
+1459,29/4/2020,Tiruchirapalli,Tamil Nadu,29/4/2020 10:45,50,24,0
+1460,14/4/2020,Vellore,Tamil Nadu,14/4/2020 10:45,22,10,0
+1461,13/4/2020,Villupuram,Tamil Nadu,13/4/2020 10:45,36,18,3
+1462,8/4/2020,Virudhunagar,Tamil Nadu,8/4/2020 10:45,19,10,5
+1463,3/4/2020,Udagamandalam,Tamil Nadu,3/4/2020 10:45,9,5,0
