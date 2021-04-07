@@ -1,1 +1,0 @@
-# IBM-NASSCOM-hackathon-Crack-the-COVID-19-case
